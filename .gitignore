@@ -1,0 +1,14 @@
+# Artifacts folder
+artifacts/
+image_outputs/
+
+# Environment files
+.env*
+
+# Testing files
+test.ipynb
+
+# Caches
+__pycache__/
+
+
