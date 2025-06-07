@@ -1,0 +1,248 @@
+{
+  "request_details": {
+    "mode": "task-specific_mode",
+    "task_type": "1. Product Photography",
+    "target_platform": {
+      "name": "Instagram Post (1:1 Square)",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "aspect_ratio": "1:1"
+      }
+    }
+  },
+  "user_inputs": {
+    "prompt": null,
+    "image_reference": {
+      "filename": "noodle.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 191818,
+      "instruction": null,
+      "saved_image_path": "noodle_20250504_142856.jpeg"
+    },
+    "branding_elements": null,
+    "task_description": null,
+    "marketing_goals": null
+  },
+  "processing_context": {
+    "initial_json_valid": true,
+    "image_analysis_result": {
+      "main_subject": "Stir-fried noodles with vegetables",
+      "secondary_elements": null,
+      "setting_environment": null,
+      "style_mood": null,
+      "extracted_text": null,
+      "suggested_keywords": null
+    },
+    "suggested_marketing_strategies": [
+      {
+        "target_audience": "Young professionals and foodies who enjoy authentic Asian flavors",
+        "target_niche": "Asian Cuisine (Chinese/Thai)",
+        "target_objective": "Increase brand awareness and engagement through visually appealing product photography",
+        "target_voice": "Authentic, vibrant, and culturally rich"
+      },
+      {
+        "target_audience": "Health-conscious individuals seeking nutritious and flavorful vegetarian meals",
+        "target_niche": "Healthy/Vegetarian Food",
+        "target_objective": "Promote the health benefits and fresh ingredients of the stir-fried noodles to boost online orders",
+        "target_voice": "Fresh, wholesome, and encouraging a healthy lifestyle"
+      },
+      {
+        "target_audience": "Casual diners looking for quick, tasty, and affordable meal options",
+        "target_niche": "Casual Dining",
+        "target_objective": "Drive foot traffic to casual dining locations by showcasing appetizing stir-fried noodles",
+        "target_voice": "Friendly, approachable, and inviting"
+      },
+      {
+        "target_audience": "Food bloggers and Instagram influencers focused on Asian cuisine",
+        "target_niche": "Asian Cuisine (Chinese/Thai)",
+        "target_objective": "Encourage user-generated content and shares to expand social media reach",
+        "target_voice": "Trendy, engaging, and visually descriptive"
+      },
+      {
+        "target_audience": "Millennials and Gen Z interested in plant-based and flavorful meals",
+        "target_niche": "Healthy/Vegetarian Food",
+        "target_objective": "Increase customer retention by highlighting unique vegetarian stir-fried noodle recipes",
+        "target_voice": "Modern, vibrant, and inspiring"
+      }
+    ],
+    "llm_call_usage": {
+      "image_eval": {
+        "completion_tokens": 13,
+        "prompt_tokens": 2709,
+        "total_tokens": 2722,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_gen_combined": {
+        "completion_tokens": 234,
+        "prompt_tokens": 793,
+        "total_tokens": 1027,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "generated_image_prompts": [
+      {
+        "visual_concept": {
+          "main_subject": "A steaming bowl of stir-fried noodles with vibrant vegetables\u2014bright green bok choy, red bell pepper strips, julienned carrots, and crisp snow peas\u2014tossed in a glossy savory sauce, sprinkled with sesame seeds, and garnished with fresh cilantro sprigs and red chili flakes. A pair of sleek black lacquered chopsticks lifts a twisted mouthful of noodles, emphasizing texture and freshness.",
+          "composition_and_framing": "Square (1:1) frame with a 30\u00b0 overhead angle, centering the bowl slightly to the right following the rule of thirds. The chopsticks create a dynamic diagonal line leading the eye. Negative space on the left accommodates promotional text.",
+          "background_environment": "Minimalist light wood tabletop with subtle bamboo mat texture. A few blurred elements suggest an authentic Asian kitchen setting, but remain unobtrusive.",
+          "foreground_elements": "A small dish of chili oil and scattered fresh ingredients (garlic cloves, red chilies, sesame seeds) lightly blurred at the bottom left corner to add context without distracting from the main subject.",
+          "lighting_and_mood": "Bright, natural diffused light from the top-left, creating soft shadows and highlights that accentuate the noodles\u2019 glossy sheen and vibrant vegetable colors. The overall mood is fresh, energetic, and inviting.",
+          "color_palette": "Warm golden yellows and rich browns of the noodles and sauce, complemented by pops of green and red from vegetables. Neutral wood tones and soft ivory negative space. High saturation with complementary accents.",
+          "visual_style": "Photorealistic product photography with shallow depth-of-field. Crisp focus on the bowl and lifted noodles, gentle bokeh background to draw attention to texture and details.",
+          "promotional_text_visuals": "Headline: \u201cTaste Authentic Asian Flavors\u201d in bold, uppercase sans-serif (white with subtle drop shadow) placed in the left negative space. Subheadline: \u201cStir-Fried Veggie Noodles\u201d in smaller italicized script font beneath. Use brand-accent yellow for key words. Ensure text hierarchy with the headline largest, subheadline medium.",
+          "branding_visuals": "No specific branding guidelines provided; include a semi-transparent white circular logo placeholder at bottom right. Below the logo, place the tagline \u201cAuthentic Asian Delights\u201d in a clean sans-serif, small caps, brand-accent yellow.",
+          "texture_and_details": "Emphasize the glossy sauce coating, sesame seed texture, and moisture droplets on vegetables. Capture the wood grain and bamboo mat weave subtly in focus range.",
+          "negative_elements": "Avoid cluttered props, overly dark or moody lighting, greasy or oily sheen, and any non-Asian cultural artifacts or text.",
+          "creative_reasoning": "The overhead angle and shallow depth-of-field align with product photography trends on Instagram, focusing on texture and freshness for foodies. Vibrant complementary colors and natural lighting reinforce an authentic, culturally rich voice. Negative space accommodates promotional text without detracting from the dish, enhancing brand awareness and engagement."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 0
+      },
+      {
+        "visual_concept": {
+          "main_subject": "A steaming bowl of stir-fried noodles with colorful vegetables including crisp broccoli florets, julienned carrots, red bell pepper strips, tender tofu cubes, garnished with sesame seeds and fresh basil leaves. A pair of wooden chopsticks lifts a glossy tangle of noodles mid-air, showcasing the dish\u2019s texture and freshness.",
+          "composition_and_framing": "Slight overhead shot at a 30\u00b0 angle, framing the bowl centrally within a 1:1 crop. The lifted noodles extend into the negative space above, balancing the composition and providing room for promotional text.",
+          "background_environment": "Light woodgrain tabletop surface with subtle texture, set in a modern minimalist kitchen environment softly blurred in the background to suggest context without distracting from the main subject.",
+          "foreground_elements": "Out-of-focus scattering of fresh broccoli florets, carrot sticks, and a small dish of sesame seeds in the lower corner, adding depth and reinforcing ingredient freshness.",
+          "lighting_and_mood": "Bright, natural daylight streaming from the top-left, casting soft, diffuse shadows. The overall mood is fresh, airy, and uplifting, emphasizing health and vitality.",
+          "color_palette": "Fresh greens (broccoli, basil), warm oranges and reds (carrots, peppers), neutral wood tones, accented by sesame white and deep soy brown. Uses complementary harmony between green and warm hues to evoke appetizing energy.",
+          "visual_style": "Photorealistic product photography with shallow depth of field (bokeh background). High-resolution detail on noodle sheen, vegetable textures, and steam. Clean, minimalist aesthetic aligned with health-focused branding.",
+          "promotional_text_visuals": "Headline 'Fuel Your Day with Fresh Veggie Noodles' in bold, modern sans-serif font (e.g., Montserrat), white with subtle drop shadow. Positioned at top-center over the softly blurred background. Subhead 'Nutritious | Flavorful | Vegetarian' in light-weight sans-serif beneath the headline, smaller size, evenly spaced.",
+          "branding_visuals": "No specific branding guidelines provided; include a circular placeholder logo at bottom-right corner in a neutral grey tone. Below it, reserve space for the brand name in charcoal grey sans-serif matching the promotional text.",
+          "texture_and_details": "Visible steam wisps rising from the noodles, glossy sheen on sauce-coated strands, individual sesame seeds and microdroplets of oil catching the light. Fine woodgrain texture of the tabletop adds tactile warmth.",
+          "negative_elements": "Avoid cluttered utensils or props crossing the frame, harsh shadows, overly dark or moody backgrounds, human hands or faces that distract from the product.",
+          "creative_reasoning": "The slight overhead angle and shallow depth of field draw attention to the vibrant, healthy ingredients and textures, aligning with the health-conscious vegetarian audience. Bright natural lighting and a complementary green\u2013warm color palette convey freshness and vitality. Integrated promotional text and unobtrusive branding ensure clarity within an Instagram 1:1 layout, encouraging online orders through an appetizing, wholesome presentation."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 1
+      },
+      {
+        "visual_concept": {
+          "main_subject": "A generous bowl of steaming stir-fried noodles tossed with colorful vegetables (bell peppers, carrots, snow peas) and garnished with fresh cilantro and sesame seeds. The noodles are glossy with sauce, individual strands visible as they twist and curl, conveying freshness and flavor.",
+          "composition_and_framing": "Centered overhead-angle shot with a slight tilt (approx. 10\u00b0) to show depth. The bowl occupies the central two-thirds of the frame, with chopsticks lifting a tangle of noodles toward the top-left, creating a dynamic diagonal line from bottom-right to top-left.",
+          "background_environment": "A warm, lightly textured wooden tabletop suggesting a casual dining table. Soft-focus hints of a restaurant interior in the background: blurred shapes of greenery, wooden chairs, and warm ambient lights.",
+          "foreground_elements": "A pair of black lacquered chopsticks lifting noodles. A rustic ceramic spoon resting at the bowl\u2019s edge. A small dish of red chili sauce partially in frame at bottom-right.",
+          "lighting_and_mood": "Natural, soft directional lighting from the top-left, creating gentle highlights on the glossy noodles and vegetables. Warm, inviting ambiance with subtle shadows to add depth and appetite appeal.",
+          "color_palette": "Warm earthy browns of the table and bowl, vibrant reds, oranges, and greens of the vegetables, golden-yellow noodles. Harmonious complementary accents via garnishes (bright green cilantro, white sesame seeds).",
+          "visual_style": "High-resolution photorealistic product photography with shallow depth-of-field. Crisp detail on the main subject, smooth bokeh in the background. Slightly elevated contrast and saturation to emphasize freshness and tastiness.",
+          "promotional_text_visuals": "Headline: \u201cFresh & Flavorful Stir-Fry\u201d in bold sans-serif, placed in top-left corner with semi-transparent white backdrop. Subheadline: \u201cQuick, Tasty, Affordable\u201d in friendly script font below the headline. Call-to-action: \u201cDrop By Today!\u201d in contrasting color badge at bottom-left.",
+          "branding_visuals": "No specific branding guidelines provided; include a subtle circular logo placeholder in top-right corner (20% of frame width) with a thin white stroke. Tagline placeholder \u201cYour Local Noodle Spot\u201d beneath the logo in small uppercase sans-serif.",
+          "texture_and_details": "Visible steam wisps rising from the noodles, glossy sauce reflections on noodle curves, fine texture of sesame seeds and micro-droplets of sauce. Bowl rim has slight ceramic glaze sheen.",
+          "negative_elements": "Avoid overcrowding the frame, no artificial-looking colors or harsh lighting, no cluttered props or unrelated food items.",
+          "creative_reasoning": "The overhead-tilted composition and photorealistic style showcase the stir-fried noodles as the star\u2014appealing directly to casual diners seeking quick, tasty meals. Warm lighting and vibrant colors evoke an inviting, friendly atmosphere. Promotional text and the logo placeholder integrate seamlessly without distracting from the product, reinforcing the objective of driving foot traffic to casual dining locations."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 2
+      },
+      {
+        "visual_concept": {
+          "main_subject": "A generous serving of stir-fried noodles tossed with colorful vegetables (bell peppers, snap peas, carrots) and garnished with sesame seeds and fresh cilantro, artfully twirled on a pair of matte-black chopsticks hovering just above the bowl to showcase the texture and ingredients.",
+          "composition_and_framing": "45\u00b0 angled close-up shot (slightly above side angle) capturing the noodles in the chopsticks as the focal point, framed in a tight 1:1 square crop. The bowl is positioned off-center on the lower third, following the rule of thirds to leave negative space for promotional text.",
+          "background_environment": "Softly blurred wooden tabletop with subtle Asian-inspired fabric placemat (light grey with geometric pattern) beneath the bowl. In the background, out-of-focus hints of bamboo steamers and fresh herbs create context without distraction.",
+          "foreground_elements": "A few loose sesame seeds scattered near the bowl\u2019s rim and a sprig of cilantro placed casually in the lower left corner to add depth and natural feel.",
+          "lighting_and_mood": "Bright, natural window light from top-left creating gentle highlights on the glossy noodles and vegetables, with soft shadows for depth. The overall mood is fresh, vibrant, and inviting.",
+          "color_palette": "Warm golden tones from the noodles, vibrant reds, greens, and oranges from the vegetables, balanced with neutral wood browns and cool greys from the placemat. Color harmony is complementary (warm tones offset by cooler neutrals).",
+          "visual_style": "High-end photorealistic food photography with shallow depth-of-field, subtle bokeh in the background. Emphasis on texture and freshness, editorial-style composition with clean minimalism.",
+          "promotional_text_visuals": "Headline: \u201c#ShareYourStir\u201d in bold, modern sans-serif font (white with subtle drop shadow) placed in the top right negative space. Subline: \u201cShow us your noodle creation & tag us to be featured!\u201d in smaller, light-weight italic sans-serif below the headline. Text aligned to upper-right, ensuring it doesn\u2019t obstruct the main subject.",
+          "branding_visuals": "No specific branding guidelines provided; include a small, semi-transparent circular logo placeholder (30px diameter) in bottom right corner. Use neutral grey color to avoid overpowering the dish, leaving space for client\u2019s actual logo insertion.",
+          "texture_and_details": "Visible sheen on the noodles, condensation droplets on the bowl\u2019s inner rim, fine sesame seed texture, crisp vegetable edges. The chopsticks have a matte finish with subtle wood grain texture.",
+          "negative_elements": "Avoid busy backgrounds, unnatural colors, heavy digital filters, props unrelated to Asian cuisine (e.g., Western utensils), harsh shadows or glare.",
+          "creative_reasoning": "This photorealistic, editorial approach with vibrant colors and natural lighting aligns with the trendy, engaging voice targeting food bloggers and influencers. The angled close-up highlights the stir-fried noodles and textures, encouraging shares. The hashtag-driven text invites user-generated content, while minimal branding keeps focus on the dish and social campaign."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 3
+      },
+      {
+        "visual_concept": {
+          "main_subject": "A close-up of a vibrant plate of stir-fried noodles tossed with colorful vegetables (bright green snap peas, julienned red bell peppers, carrots, and fresh basil leaves). The noodles glisten with a savory sauce, with steam gently rising. A pair of wooden chopsticks pick up a tangle of noodles, emphasizing texture and freshness.",
+          "composition_and_framing": "Square 1:1 format. Slightly angled top-down shot (around 45\u00b0) that captures depth and texture. The plate is centered but offset slightly to the right to leave space for promotional text on the left.",
+          "background_environment": "A clean, light wood table surface with subtle grain. In the blurred background, hints of a modern kitchen setting: a white tile backsplash and soft greenery (potted herb plant) out of focus to reinforce freshness.",
+          "foreground_elements": "Scattered fresh sesame seeds, a few halved cherry tomatoes and a sprig of basil partially in focus at the bottom edge. A small dish of dipping sauce is on the lower left corner, slightly blurred.",
+          "lighting_and_mood": "Bright, natural daylight coming from the top-left, casting soft shadows. The overall mood is vibrant, fresh, and inviting, with gentle highlights on the sauce and vegetables.",
+          "color_palette": "Warm golden yellows and browns of the noodles contrasted with vivid greens (peas, basil), reds (peppers, tomatoes), and a neutral light wood background. Harmonious complementary colors to make the dish pop.",
+          "visual_style": "High-resolution photorealistic product photography with shallow depth of field. Editorial-style clarity and crispness on the main subject, soft bokeh in background. Modern food photography aesthetic.",
+          "promotional_text_visuals": "Headline: 'Flavorful Veggie Stir-Fry' in bold sans-serif type, bright white with a subtle green outline. Subheading: 'Discover our plant-based noodle recipes' in a lighter weight sans-serif. Text block placed on left negative space, aligned center-left with slight drop shadow for legibility.",
+          "branding_visuals": "No specific branding guidelines provided; derive style from strategy. Include a small circular logo placeholder in the bottom-right corner, with space for a tagline beneath in matching sans-serif font. Use accent color from dish (green) for logo color.",
+          "texture_and_details": "Emphasize glossy sheen of sauce on noodles, dewy texture of fresh vegetables, visible steam wisps. Fine texture of wooden chopsticks and scattered sesame seeds for detail.",
+          "negative_elements": "Avoid dark or moody filters; no meat or animal products in view; no cluttered or busy props; no heavy shadows or harsh contrast; no pastel or overly muted tones.",
+          "creative_reasoning": "The bright, modern photorealistic styling and vibrant color palette appeal to Millennials and Gen Z interested in healthy, plant-based meals. The 45\u00b0 top-down composition and shallow depth of field emphasize the stir-fried noodles\u2019 texture and freshness, reinforcing the product photography objective. Promotional text and minimal branding integrate seamlessly in the negative space, supporting customer retention by highlighting unique vegetarian recipes in a fresh, inspiring voice."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 4
+      }
+    ],
+    "final_assembled_prompts": [
+      {
+        "index": 0,
+        "prompt": "Using the primary subject from the provided reference image, create a new image with the following visual concept: A steaming bowl of stir-fried noodles with vibrant vegetables\u2014bright green bok choy, red bell pepper strips, julienned carrots, and crisp snow peas\u2014tossed in a glossy savory sauce, sprinkled with sesame seeds, and garnished with fresh cilantro sprigs and red chili flakes. A pair of sleek black lacquered chopsticks lifts a twisted mouthful of noodles, emphasizing texture and freshness.. Square (1:1) frame with a 30\u00b0 overhead angle, centering the bowl slightly to the right following the rule of thirds. The chopsticks create a dynamic diagonal line leading the eye. Negative space on the left accommodates promotional text.. Background: Minimalist light wood tabletop with subtle bamboo mat texture. A few blurred elements suggest an authentic Asian kitchen setting, but remain unobtrusive.. Foreground elements: A small dish of chili oil and scattered fresh ingredients (garlic cloves, red chilies, sesame seeds) lightly blurred at the bottom left corner to add context without distracting from the main subject.. Lighting & Mood: Bright, natural diffused light from the top-left, creating soft shadows and highlights that accentuate the noodles\u2019 glossy sheen and vibrant vegetable colors. The overall mood is fresh, energetic, and inviting.. Color Palette: Warm golden yellows and rich browns of the noodles and sauce, complemented by pops of green and red from vegetables. Neutral wood tones and soft ivory negative space. High saturation with complementary accents.. Visual Style: Photorealistic product photography with shallow depth-of-field. Crisp focus on the bowl and lifted noodles, gentle bokeh background to draw attention to texture and details.. Textures & Details: Emphasize the glossy sauce coating, sesame seed texture, and moisture droplets on vegetables. Capture the wood grain and bamboo mat weave subtly in focus range.. Text Visualization: Headline: \u201cTaste Authentic Asian Flavors\u201d in bold, uppercase sans-serif (white with subtle drop shadow) placed in the left negative space. Subheadline: \u201cStir-Fried Veggie Noodles\u201d in smaller italicized script font beneath. Use brand-accent yellow for key words. Ensure text hierarchy with the headline largest, subheadline medium.. Branding Visualization: No specific branding guidelines provided; include a semi-transparent white circular logo placeholder at bottom right. Below the logo, place the tagline \u201cAuthentic Asian Delights\u201d in a clean sans-serif, small caps, brand-accent yellow.. Avoid the following elements: Avoid cluttered props, overly dark or moody lighting, greasy or oily sheen, and any non-Asian cultural artifacts or text. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 1,
+        "prompt": "Using the primary subject from the provided reference image, create a new image with the following visual concept: A steaming bowl of stir-fried noodles with colorful vegetables including crisp broccoli florets, julienned carrots, red bell pepper strips, tender tofu cubes, garnished with sesame seeds and fresh basil leaves. A pair of wooden chopsticks lifts a glossy tangle of noodles mid-air, showcasing the dish\u2019s texture and freshness.. Slight overhead shot at a 30\u00b0 angle, framing the bowl centrally within a 1:1 crop. The lifted noodles extend into the negative space above, balancing the composition and providing room for promotional text.. Background: Light woodgrain tabletop surface with subtle texture, set in a modern minimalist kitchen environment softly blurred in the background to suggest context without distracting from the main subject.. Foreground elements: Out-of-focus scattering of fresh broccoli florets, carrot sticks, and a small dish of sesame seeds in the lower corner, adding depth and reinforcing ingredient freshness.. Lighting & Mood: Bright, natural daylight streaming from the top-left, casting soft, diffuse shadows. The overall mood is fresh, airy, and uplifting, emphasizing health and vitality.. Color Palette: Fresh greens (broccoli, basil), warm oranges and reds (carrots, peppers), neutral wood tones, accented by sesame white and deep soy brown. Uses complementary harmony between green and warm hues to evoke appetizing energy.. Visual Style: Photorealistic product photography with shallow depth of field (bokeh background). High-resolution detail on noodle sheen, vegetable textures, and steam. Clean, minimalist aesthetic aligned with health-focused branding.. Textures & Details: Visible steam wisps rising from the noodles, glossy sheen on sauce-coated strands, individual sesame seeds and microdroplets of oil catching the light. Fine woodgrain texture of the tabletop adds tactile warmth.. Text Visualization: Headline 'Fuel Your Day with Fresh Veggie Noodles' in bold, modern sans-serif font (e.g., Montserrat), white with subtle drop shadow. Positioned at top-center over the softly blurred background. Subhead 'Nutritious | Flavorful | Vegetarian' in light-weight sans-serif beneath the headline, smaller size, evenly spaced.. Branding Visualization: No specific branding guidelines provided; include a circular placeholder logo at bottom-right corner in a neutral grey tone. Below it, reserve space for the brand name in charcoal grey sans-serif matching the promotional text.. Avoid the following elements: Avoid cluttered utensils or props crossing the frame, harsh shadows, overly dark or moody backgrounds, human hands or faces that distract from the product. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 2,
+        "prompt": "Using the primary subject from the provided reference image, create a new image with the following visual concept: A generous bowl of steaming stir-fried noodles tossed with colorful vegetables (bell peppers, carrots, snow peas) and garnished with fresh cilantro and sesame seeds. The noodles are glossy with sauce, individual strands visible as they twist and curl, conveying freshness and flavor.. Centered overhead-angle shot with a slight tilt (approx. 10\u00b0) to show depth. The bowl occupies the central two-thirds of the frame, with chopsticks lifting a tangle of noodles toward the top-left, creating a dynamic diagonal line from bottom-right to top-left.. Background: A warm, lightly textured wooden tabletop suggesting a casual dining table. Soft-focus hints of a restaurant interior in the background: blurred shapes of greenery, wooden chairs, and warm ambient lights.. Foreground elements: A pair of black lacquered chopsticks lifting noodles. A rustic ceramic spoon resting at the bowl\u2019s edge. A small dish of red chili sauce partially in frame at bottom-right.. Lighting & Mood: Natural, soft directional lighting from the top-left, creating gentle highlights on the glossy noodles and vegetables. Warm, inviting ambiance with subtle shadows to add depth and appetite appeal.. Color Palette: Warm earthy browns of the table and bowl, vibrant reds, oranges, and greens of the vegetables, golden-yellow noodles. Harmonious complementary accents via garnishes (bright green cilantro, white sesame seeds).. Visual Style: High-resolution photorealistic product photography with shallow depth-of-field. Crisp detail on the main subject, smooth bokeh in the background. Slightly elevated contrast and saturation to emphasize freshness and tastiness.. Textures & Details: Visible steam wisps rising from the noodles, glossy sauce reflections on noodle curves, fine texture of sesame seeds and micro-droplets of sauce. Bowl rim has slight ceramic glaze sheen.. Text Visualization: Headline: \u201cFresh & Flavorful Stir-Fry\u201d in bold sans-serif, placed in top-left corner with semi-transparent white backdrop. Subheadline: \u201cQuick, Tasty, Affordable\u201d in friendly script font below the headline. Call-to-action: \u201cDrop By Today!\u201d in contrasting color badge at bottom-left.. Branding Visualization: No specific branding guidelines provided; include a subtle circular logo placeholder in top-right corner (20% of frame width) with a thin white stroke. Tagline placeholder \u201cYour Local Noodle Spot\u201d beneath the logo in small uppercase sans-serif.. Avoid the following elements: Avoid overcrowding the frame, no artificial-looking colors or harsh lighting, no cluttered props or unrelated food items. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 3,
+        "prompt": "Using the primary subject from the provided reference image, create a new image with the following visual concept: A generous serving of stir-fried noodles tossed with colorful vegetables (bell peppers, snap peas, carrots) and garnished with sesame seeds and fresh cilantro, artfully twirled on a pair of matte-black chopsticks hovering just above the bowl to showcase the texture and ingredients.. 45\u00b0 angled close-up shot (slightly above side angle) capturing the noodles in the chopsticks as the focal point, framed in a tight 1:1 square crop. The bowl is positioned off-center on the lower third, following the rule of thirds to leave negative space for promotional text.. Background: Softly blurred wooden tabletop with subtle Asian-inspired fabric placemat (light grey with geometric pattern) beneath the bowl. In the background, out-of-focus hints of bamboo steamers and fresh herbs create context without distraction.. Foreground elements: A few loose sesame seeds scattered near the bowl\u2019s rim and a sprig of cilantro placed casually in the lower left corner to add depth and natural feel.. Lighting & Mood: Bright, natural window light from top-left creating gentle highlights on the glossy noodles and vegetables, with soft shadows for depth. The overall mood is fresh, vibrant, and inviting.. Color Palette: Warm golden tones from the noodles, vibrant reds, greens, and oranges from the vegetables, balanced with neutral wood browns and cool greys from the placemat. Color harmony is complementary (warm tones offset by cooler neutrals).. Visual Style: High-end photorealistic food photography with shallow depth-of-field, subtle bokeh in the background. Emphasis on texture and freshness, editorial-style composition with clean minimalism.. Textures & Details: Visible sheen on the noodles, condensation droplets on the bowl\u2019s inner rim, fine sesame seed texture, crisp vegetable edges. The chopsticks have a matte finish with subtle wood grain texture.. Text Visualization: Headline: \u201c#ShareYourStir\u201d in bold, modern sans-serif font (white with subtle drop shadow) placed in the top right negative space. Subline: \u201cShow us your noodle creation & tag us to be featured!\u201d in smaller, light-weight italic sans-serif below the headline. Text aligned to upper-right, ensuring it doesn\u2019t obstruct the main subject.. Branding Visualization: No specific branding guidelines provided; include a small, semi-transparent circular logo placeholder (30px diameter) in bottom right corner. Use neutral grey color to avoid overpowering the dish, leaving space for client\u2019s actual logo insertion.. Avoid the following elements: Avoid busy backgrounds, unnatural colors, heavy digital filters, props unrelated to Asian cuisine (e.g., Western utensils), harsh shadows or glare. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 4,
+        "prompt": "Using the primary subject from the provided reference image, create a new image with the following visual concept: A close-up of a vibrant plate of stir-fried noodles tossed with colorful vegetables (bright green snap peas, julienned red bell peppers, carrots, and fresh basil leaves). The noodles glisten with a savory sauce, with steam gently rising. A pair of wooden chopsticks pick up a tangle of noodles, emphasizing texture and freshness.. Square 1:1 format. Slightly angled top-down shot (around 45\u00b0) that captures depth and texture. The plate is centered but offset slightly to the right to leave space for promotional text on the left.. Background: A clean, light wood table surface with subtle grain. In the blurred background, hints of a modern kitchen setting: a white tile backsplash and soft greenery (potted herb plant) out of focus to reinforce freshness.. Foreground elements: Scattered fresh sesame seeds, a few halved cherry tomatoes and a sprig of basil partially in focus at the bottom edge. A small dish of dipping sauce is on the lower left corner, slightly blurred.. Lighting & Mood: Bright, natural daylight coming from the top-left, casting soft shadows. The overall mood is vibrant, fresh, and inviting, with gentle highlights on the sauce and vegetables.. Color Palette: Warm golden yellows and browns of the noodles contrasted with vivid greens (peas, basil), reds (peppers, tomatoes), and a neutral light wood background. Harmonious complementary colors to make the dish pop.. Visual Style: High-resolution photorealistic product photography with shallow depth of field. Editorial-style clarity and crispness on the main subject, soft bokeh in background. Modern food photography aesthetic.. Textures & Details: Emphasize glossy sheen of sauce on noodles, dewy texture of fresh vegetables, visible steam wisps. Fine texture of wooden chopsticks and scattered sesame seeds for detail.. Text Visualization: Headline: 'Flavorful Veggie Stir-Fry' in bold sans-serif type, bright white with a subtle green outline. Subheading: 'Discover our plant-based noodle recipes' in a lighter weight sans-serif. Text block placed on left negative space, aligned center-left with slight drop shadow for legibility.. Branding Visualization: No specific branding guidelines provided; derive style from strategy. Include a small circular logo placeholder in the bottom-right corner, with space for a tagline beneath in matching sans-serif font. Use accent color from dish (green) for logo color.. Avoid the following elements: Avoid dark or moody filters; no meat or animal products in view; no cluttered or busy props; no heavy shadows or harsh contrast; no pastel or overly muted tones. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      }
+    ],
+    "generated_image_results": [
+      {
+        "index": 0,
+        "status": "error",
+        "result_path": null,
+        "original_result": "Image API response format mismatch for generation. Revised prompt (if available): N/A"
+      },
+      {
+        "index": 1,
+        "status": "error",
+        "result_path": null,
+        "original_result": "Image API response format mismatch for generation. Revised prompt (if available): N/A"
+      },
+      {
+        "index": 2,
+        "status": "error",
+        "result_path": null,
+        "original_result": "Image API response format mismatch for generation. Revised prompt (if available): N/A"
+      },
+      {
+        "index": 3,
+        "status": "error",
+        "result_path": null,
+        "original_result": "Image API response format mismatch for generation. Revised prompt (if available): N/A"
+      },
+      {
+        "index": 4,
+        "status": "error",
+        "result_path": null,
+        "original_result": "Image API response format mismatch for generation. Revised prompt (if available): N/A"
+      }
+    ]
+  }
+}

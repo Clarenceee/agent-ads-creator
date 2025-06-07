@@ -1,0 +1,266 @@
+{
+  "request_details": {
+    "mode": "task_specific_mode",
+    "task_type": "2. Promotional Graphics & Announcements",
+    "target_platform": {
+      "name": "Facebook Post (Mixed)",
+      "resolution_details": {
+        "width": 1200,
+        "height": 630,
+        "aspect_ratio": "1.91:1 or 1:1"
+      }
+    }
+  },
+  "user_inputs": {
+    "prompt": null,
+    "image_reference": null,
+    "render_text": true,
+    "apply_branding": true,
+    "branding_elements": "Colors: Yellow, Green; Font: Playful Sans-Serif",
+    "task_description": "Weekend Brunch - 20% Off!",
+    "marketing_goals": null
+  },
+  "processing_context": {
+    "initial_json_valid": true,
+    "image_analysis_result": null,
+    "suggested_marketing_strategies": [
+      {
+        "target_audience": "Young professionals and foodies who enjoy weekend brunch outings",
+        "target_niche": "Brunch Cafes",
+        "target_objective": "Increase weekend foot traffic and sales through a limited-time 20% discount promotion",
+        "target_voice": "Energetic, inviting, and trendy to appeal to a social brunch crowd"
+      },
+      {
+        "target_audience": "Families looking for a relaxed weekend dining experience",
+        "target_niche": "Casual Dining Restaurants",
+        "target_objective": "Encourage family visits during weekend brunch hours by promoting a family-friendly 20% discount",
+        "target_voice": "Warm, friendly, and approachable to resonate with parents and children"
+      },
+      {
+        "target_audience": "Health-conscious individuals interested in nutritious brunch options",
+        "target_niche": "Family-Friendly Restaurants",
+        "target_objective": "Drive awareness and trial of healthy weekend brunch menu items with a 20% discount offer",
+        "target_voice": "Informative, fresh, and motivating to emphasize health benefits and quality ingredients"
+      },
+      {
+        "target_audience": "Regular coffee shop patrons and bakery lovers seeking weekend treat deals",
+        "target_niche": "Coffee Shops and Bakeries",
+        "target_objective": "Boost weekend sales by promoting a 20% discount on brunch items paired with specialty coffee and baked goods",
+        "target_voice": "Cozy, charming, and enticing to highlight comfort and indulgence"
+      },
+      {
+        "target_audience": "Casual diners who prefer relaxed and affordable weekend meals",
+        "target_niche": "Health-Conscious Eateries",
+        "target_objective": "Attract casual weekend diners with a compelling 20% off brunch promotion to increase repeat visits",
+        "target_voice": "Casual, friendly, and straightforward to align with easygoing dining preferences"
+      }
+    ],
+    "llm_call_usage": {
+      "strategy_niche_id": {
+        "completion_tokens": 35,
+        "prompt_tokens": 272,
+        "total_tokens": 307,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_goal_gen": {
+        "completion_tokens": 279,
+        "prompt_tokens": 820,
+        "total_tokens": 1099,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_gen_combined_sum": {
+        "completion_tokens": 314,
+        "prompt_tokens": 1092,
+        "total_tokens": 1406,
+        "stage1_completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "stage1_prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "stage2_completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "stage2_prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "creativity_level_used": 3,
+    "style_guidance_sets": [
+      {
+        "style_keywords": [
+          "Vibrant Neon",
+          "Urban Mural",
+          "Social Media Ready",
+          "Modern Graffiti",
+          "Brunch Culture"
+        ],
+        "style_description": "Utilize bold neon colors and graffiti-style typography over urban-style mural backgrounds to capture the edgy yet trendy brunch scene. Incorporate modern brunch culture elements like avocado toast and latte art in a stylized way.",
+        "source_strategy_index": 0
+      },
+      {
+        "style_keywords": [
+          "Pastel Whimsy",
+          "Animated Characters",
+          "Retro Kids Book",
+          "Playful Typography",
+          "Family Fun"
+        ],
+        "style_description": "Apply soft pastel tones with whimsical illustrations of families enjoying brunch. Include cartoon-style characters interacting with menu items and speech bubbles with catchy phrases in rounded, playful fonts.",
+        "source_strategy_index": 1
+      },
+      {
+        "style_keywords": [
+          "Botanical Minimalist",
+          "Clean Infographics",
+          "Food Transparency",
+          "Nature-Inspired",
+          "Wellness Focus"
+        ],
+        "style_description": "Employ a clean, botanical-inspired design with subtle leaf patterns and muted natural tones. Use clear infographics to highlight ingredient stories and nutritional benefits, with delicate line art of fresh produce and greens.",
+        "source_strategy_index": 2
+      },
+      {
+        "style_keywords": [
+          "Rustic Hand-Drawn",
+          "Cozy Cottage",
+          "Bakery Illustration",
+          "Warm Texture",
+          "Comfort Cravings"
+        ],
+        "style_description": "Feature charming, hand-drawn illustrations of baked goods and coffee mugs on textured kraft paper backgrounds. Combine warm, inviting color gradients with comforting patterns like checkered napkins or croissant crumb details.",
+        "source_strategy_index": 3
+      },
+      {
+        "style_keywords": [
+          "Vintage Diner",
+          "Bold Retro",
+          "Classic Comfort",
+          "Food Photography",
+          "Approachable Typography"
+        ],
+        "style_description": "Adopt a nostalgic 1950s diner aesthetic with chrome accents and retro check patterns. Pair high-quality food photography with bold, slab-serif typography to emphasize value and comfort in a modern-retro fusion.",
+        "source_strategy_index": 4
+      }
+    ],
+    "generated_image_prompts": [
+      {
+        "visual_concept": {
+          "main_subject": "A large, vibrant brunch table centerpiece featuring a stack of neon-styled avocado toasts with edible flowers, a steaming latte with intricate pink and gold latte art, and a graffiti-decorated brunch menu card partially unfolded. The items are arranged in a dynamic, slightly diagonal composition that visually guides the viewer's eye toward the promotional message positioned above.",
+          "composition_and_framing": "Overhead, flat lay composition with a diagonal layout to maintain visual momentum. The central stack of avocado toast acts as the anchor, flanked by the latte on one side and a small brunch cocktail (mimosa or bloody mary) on the other. The graffiti-style typography wraps around the main subject, creating a natural framing device that draws attention inward. The image is balanced yet energetic, optimized for rapid attention capture in a scroll-heavy feed.",
+          "background_environment": "A hyper-stylized abstract background inspired by urban murals and graffiti art. The surface appears to be a graffiti-painted brick caf\u00e9 wall transformed into a brunch-themed urban canvas: subtle outlines of brunch-goers, stylized toast emojis, and coffee cup spray-paint drips. The background uses a mix of sharp linework and blurred spray-paint textures to create a sense of layered depth.",
+          "foreground_elements": "Scattered neon fruit slices (kiwi, lime, lemon), coffee beans stylized as graffiti 'dots,' and splashes of avocado \u2018ink\u2019 that appear to drip from the toast. These elements add movement and texture while reinforcing the trendy brunch-meets-street-art theme.",
+          "lighting_and_mood": "High-contrast, stylized lighting that mimics neon lights and subtle backlighting on a mural. Highlights glow with fluorescent intensity on the toasted bread and latte surface, giving a sense of nightlife-meets-brunch energy. The shadows are soft but stylized, echoing the aesthetic of urban street art under low lighting.",
+          "color_palette": "High-saturation neon palette dominated by electric yellows, neon greens, deep pinks, and metallic golds. Subtle gradients blend graffiti tags into the background, while the avocado toast uses neon green gradients with glowing undertones to emphasize freshness and trendiness.",
+          "visual_style": "A fusion of modern mural graffiti and stylized food illustration, this concept merges the boldness of street art with the allure of brunch culture. Graffiti-style typography spelling 'Weekend Brunch \u2013 20% Off!' curves dramatically around the upper portion of the image, echoing spray-paint textures while maintaining readability. The food items are rendered in a highly stylized yet appetizing way, with exaggerated highlights and fluid shapes that align with the urban mural aesthetic. Neon outlines and light leaks create a sense of energetic movement, ideal for a social brunch crowd.",
+          "promotional_text_visuals": "\u2018Weekend Brunch \u2013 20% Off!\u2019 rendered in bold, curvy graffiti-style neon typography that wraps the top arc of the image like a marquee sign. The lettering includes splatters and drips for authenticity, glowing with a slight blur effect. Below the main text, a secondary line reads \u2018Limited Time Only\u2019 in smaller, italicized sans-serif (matching the brand font), placed subtly at the bottom in a soft metallic gold. Text is integrated into the overall mural style, as if painted on the same wall as the background.",
+          "branding_visuals": "The brand\u2019s yellow and green are used prominently: yellow for the neon glow on the toast and background accents, green for the avocado toast and graffiti outlines. The brand\u2019s playful sans-serif font is used in a stylized version for the secondary copy, subtly etched into the surface of the brunch menu card. The logo is embedded as a minimalist icon in one corner, semi-transparent to avoid overpowering the composition.",
+          "texture_and_details": "Textures combine gritty spray-paint backdrops with glossy, reflective surfaces on the food. The avocado toast glows with a semi-transparent sheen mimicking oil, while the latte features subtle metallic highlights. The graffiti background includes layered paint textures, drips, and splashes, giving the illusion of a recently painted mural.",
+          "negative_elements": "Avoid realistic or muted tones; avoid overly formal aesthetics such as table linens or fine china. Do not include crowds, clutter, or anything that detracts from the clean, stylized focus on the brunch items and promotion. Avoid serif fonts or anything that clashes with the playful, neon-driven graffiti motif.",
+          "creative_reasoning": "The concept leverages the energetic and trendy appeal of urban street art to attract young professionals and foodies who seek stylish brunch experiences. The neon-graffiti aesthetic aligns with current social media trends and is visually optimized to stop the scroll on platforms like Facebook with its boldness and vibrant palette. The integration of brunch culture icons (avocado toast, latte art) in a stylized context reinforces the niche while the promotion is clearly highlighted for conversion. The use of brand colors (yellow, green) maintains visual consistency with the brand identity while enhancing the urban-chic aesthetic."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 0
+      },
+      {
+        "visual_concept": {
+          "main_subject": "A whimsical animated family of four (parents and two children) sitting at a cozy pastel-colored brunch table filled with oversized, cartoon-style menu items like a giant stack of pancakes, a smiling milkshake, and a dancing omelet. Each family member is interacting joyfully with the food, with speech bubbles above their heads containing playful phrases like 'Yum-tastic!' and 'Brunch Time Magic!'.",
+          "composition_and_framing": "Centered, symmetrical composition with a circular layout to draw attention inward toward the family and the main promotional message. The animated characters and oversized food items create a dynamic, storybook-like focal point, with soft visual flow guiding the eye from the characters to the promotional text above.",
+          "background_environment": "A soft, dreamlike brunch caf\u00e9 rendered in pastel hues, with rounded archways, cartoon-style potted plants, and floating hearts. The walls are painted in gentle gradients of mint green and baby pink, with illustrated birds and balloons adding a sense of movement and joy. A large sun with a smiling face casts a warm, inviting glow.",
+          "foreground_elements": "A cartoon-style checkered picnic blanket with embroidered '20% Off!' motifs in soft yellow and green, subtly reinforcing the promotion. A few scattered pastel confetti pieces and animated sparkles float around the family, enhancing the playful tone.",
+          "lighting_and_mood": "Soft, diffused lighting with a warm golden undertone, creating a cozy and inviting atmosphere. The mood is cheerful, whimsical, and family-oriented, evoking the comfort of a weekend morning spent together.",
+          "color_palette": "A pastel-based palette of mint green, baby pink, soft yellow, and light lavender, accented with warm white highlights and gentle shadow tones. These colors align with the brand's yellow and green identity while enhancing the playful, family-friendly tone.",
+          "visual_style": "A whimsical, animated illustration style inspired by retro children's books, with soft outlines, rounded shapes, and exaggerated expressions. The characters are stylized with oversized heads and expressive eyes, while the food items are anthropomorphized with playful personalities. The overall aesthetic is hand-drawn and slightly textured, giving it a nostalgic yet modern feel. Speech bubbles and playful typography are integrated seamlessly into the scene, enhancing the narrative and promotional appeal.",
+          "promotional_text_visuals": "Bold, rounded sans-serif text in a playful font style, with the headline 'Weekend Brunch - 20% Off!' rendered in large, soft yellow letters with green outlines, placed at the top center of the image. The text is slightly curved to follow the circular composition, with pastel confetti and tiny cartoon forks and spoons integrated into the background of the text block for visual interest.",
+          "branding_visuals": "The brand's yellow and green colors are used prominently throughout the palette, with the logo subtly placed in the bottom right corner as a soft watermark. The playful sans-serif font used in the promotional text matches the brand's typographic identity, and the tagline 'Bringing Families Together Over Brunch!' is etched in tiny letters along the base of the illustration in a soft green tone.",
+          "texture_and_details": "Slight paper-texture overlay on the illustration to give it a tactile, storybook feel. Menu items have soft gradients and subtle highlights to give them a 3D, 'puffed-up' appearance. The characters have soft shading and rounded edges to enhance the whimsical, approachable tone.",
+          "negative_elements": "Avoid harsh lines, dark or saturated colors, overly complex details, or any elements that might distract from the central family or promotional message. No modern or minimalist design elements, and no food items that appear too realistic or unappetizing.",
+          "creative_reasoning": "This concept leverages a whimsical, storybook-inspired style to appeal directly to both children and parents, aligning with the warm and approachable brand voice. The use of animated characters and playful food anthropomorphism creates emotional engagement and makes the promotion feel like part of a fun experience rather than just a discount. The centered composition and clear text placement ensure the message is immediately readable on Facebook's mixed feed format, while the pastel palette and soft lighting evoke a sense of comfort and family time. The branding elements are subtly integrated to maintain visual harmony without overpowering the scene."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 1
+      },
+      {
+        "visual_concept": {
+          "main_subject": "A vibrant and neatly arranged brunch table featuring wholesome dishes like avocado toast, acai bowls, fresh fruit platters, and green smoothies. Each item is presented with subtle botanical illustrations\u2014such as line-drawn leaves and vines\u2014woven around the food, emphasizing natural freshness. A transparent overlay infographic on one dish shows icons for calories, vitamins, and fiber with simple, modern typography.",
+          "composition_and_framing": "Center-focused symmetrical arrangement, creating a balanced, calming aesthetic. The brunch items are arranged in a circular layout to subtly suggest unity and wellness, with the central item (a green smoothie) highlighted as the hero element. The composition allows space for the promotional text in the upper third of the image, ensuring it doesn't clash with the main focus.",
+          "background_environment": "Subtle, botanical patterned wallpaper in muted sage and soft ivory tones. Faint botanical illustrations\u2014such as fern leaves and vines\u2014are layered softly into the background, creating a sense of depth and natural serenity without distracting from the foreground. A diffused blurred window light effect provides a warm, welcoming ambience in the backdrop.",
+          "foreground_elements": "A few scattered fresh mint leaves and edible flowers subtly placed to lead the viewer\u2019s eye from the corner text toward the main dishes. A clean wooden table surface with minimal grain texture enhances the minimalist aesthetic.",
+          "lighting_and_mood": "Soft, diffused daylight mimicking a gentle morning glow. Highlights on the glass smoothie bowl and dewy blueberries enhance the freshness and health focus of the scene. The overall lighting feels uplifting, clean, and energizing, resonating with the wellness and family-friendly tone.",
+          "color_palette": "Muted earthy tones (sage green, warm beige, muted olive) as base, accented with soft pastel yellow and green highlights from the brand\u2019s palette. Accent colors are used in subtle infographics and botanical lines, ensuring visual harmony and alignment with brand identity.",
+          "visual_style": "A refined botanical minimalist style with intricate but understated botanical illustrations in a muted natural color palette. The design emphasizes clean lines, gentle transparency effects in food imagery, and minimalist infographics integrated seamlessly into the composition. The aesthetic is calm, elegant, and wellness-driven, blending nature-inspired design principles with modern, health-focused F&B presentation.",
+          "promotional_text_visuals": "Bold yet playful sans-serif text in brand yellow: 'Weekend Brunch - 20% Off!' rendered across the upper third of the design in a transparent white vignette to ensure contrast. A supporting line in green smaller font says, 'Fuel your family with fresh, healthy goodness every Saturday & Sunday.' Text follows a centered hierarchy with subtle shadow for readability, and the exclamation mark is stylized as a leaf motif to connect with the botanical theme.",
+          "branding_visuals": "The brand logo is subtly embedded as a small embossed watermark in the lower right corner. The tagline, if any, could be etched into the wooden table texture or faintly overlaid in the background, using soft brand green for cohesiveness. Brand yellow highlights infographics and a few accents in the botanical lines, maintaining playful freshness while retaining minimalism.",
+          "texture_and_details": "Natural textures like the smooth ceramic of the bowls, dewy sheen on fruits, soft fabric napkin folded neatly in the scene, and a subtle matte finish over the overall image to enhance the clean, minimalist aesthetic.",
+          "negative_elements": "No overly bright or saturated colors that might clash with the minimal botanical palette; no clutter or distracting patterns; no heavy shadows or harsh lighting; avoid cartoonish or overly stylized food representations that might feel inauthentic or unappetizing",
+          "creative_reasoning": "This concept uses Botanical Minimalist and Wellness-focused style elements to align with the health-conscious and nature-aware target audience. The muted earth tones and botanical textures foster a sense of trust, calm, and natural health. Clean infographics provide the 'food transparency' required for health-focused diners, and the family-friendly framing reflects the restaurant\u2019s niche. The inclusion of brand colors (yellow and green) in stylized but unobtrusive ways ensures consistency with identity while keeping the design fresh and elegant. Promotional text is designed for immediate readability on social platforms like Facebook, ensuring high impact while blending naturally into the serene scene."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 2
+      },
+      {
+        "visual_concept": {
+          "main_subject": "A whimsical, rustic brunch scene centered around a steaming oversized coffee mug and a golden-brown croissant, both hand-drawn with intricate flourishes. The croissant is oozing buttery warmth, with flaky layers emphasized, while the mug is adorned with delicate coffee bean motifs and overflowing with aromatic steam that morphs into decorative flourishes. Next to them are other illustrated brunch elements like a stack of pancakes with syrup drips and a buttered toast slice, all arranged playfully.",
+          "composition_and_framing": "The composition is circular, creating a cozy and intimate feel akin to a cozy cottage vignette. Each illustrated food item radiates slightly outward from the center, creating gentle visual flow and balance. The layout is designed with a dynamic yet comforting rhythm to lead the eye naturally toward the focal point \u2013 the croissant and coffee mug duo. There is open negative space on the top third to accommodate promotional text.",
+          "background_environment": "A textured kraft paper background featuring delicate, warmth-evoking gradients in soft terracotta and sandy beige tones. Embedded into the background are subtle pattern overlays like checkered napkin textures and faint croissant crumb motifs, adding depth and thematic consistency.",
+          "foreground_elements": "A hand-drawn wooden table texture in the lower foreground, with a small woven basket spilling over with pastries. A stylized steam ribbon from the coffee mug flows into the text area, subtly connecting the visual elements with the promotional headline.",
+          "lighting_and_mood": "Soft, diffused lighting mimicking the warm glow of morning sunlight filtering through lace curtains. The mood is comforting, nostalgic, and slightly dreamy, evoking the feeling of a lazy weekend morning at a countryside bakery.",
+          "color_palette": "A warm and earthy palette with accents of brand yellow and green. Dominant hues include terracotta, cream, golden brown, and muted sage. Pops of buttery yellow and leaf green are used in the croissant glaze and decorative flourishes to align with brand colors.",
+          "visual_style": "A charming, rustic hand-drawn illustration style with a cozy cottage aesthetic. The artwork features textured ink outlines, soft watercolor washes, and hand-painted gradients. Each food item is stylized with exaggerated details to evoke comfort cravings \u2013 flaky layers, syrupy gloss, and aromatic steam trails. The overall look is reminiscent of vintage bakery packaging and artisanal recipe books, enhanced with modern digital warmth and clarity.",
+          "promotional_text_visuals": "Bold, playful sans-serif headline 'Weekend Brunch - 20% Off!' rendered in a buttery yellow hue, arched across the top third of the composition. The text is slightly textured to match the rustic style, with a soft green drop shadow. A smaller subtext in sage green reads 'Pair your favorite coffee with fresh-baked treats' in a clean, rounded sans-serif, placed just below the headline in a centered layout.",
+          "branding_visuals": "The brand's yellow and green color scheme is integrated through the promotional text highlights, decorative flourishes, and subtle accents in the background patterns. A small, hand-drawn brand logo placeholder is subtly embedded in the bottom right corner, etched into the kraft paper texture as if stamped.",
+          "texture_and_details": "Richly textured kraft paper base with visible fiber details. The croissant features hyper-detailed flaky layers and buttery gloss, while the coffee mug has a matte ceramic finish with hand-inked coffee bean illustrations. Steam from the mug is stylized into soft, flowing ribbons with gradient warmth.",
+          "negative_elements": "Avoid overly modern or minimalist aesthetics, flat design elements, harsh shadows, or overly realistic photography styles. No dark or cold tones, and no cluttered or chaotic layouts that detract from the cozy, charming mood.",
+          "creative_reasoning": "The rustic hand-drawn style with warm textures and cozy cottage motifs directly aligns with the brand's charming and comforting voice, appealing to weekend brunch seekers. The circular composition and open text space ensure the promotional message stands out clearly on Facebook's mixed feed, while the brand colors and playful typography maintain visual consistency and recognition. The exaggerated food details and whimsical layout entice comfort cravings, making the offer feel indulgent yet approachable."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 3
+      },
+      {
+        "visual_concept": {
+          "main_subject": "A vibrant 1950s-style diner counter filled with a variety of brunch items\u2014stacked pancakes, avocado toast, eggs benedict, and fresh fruit\u2014arranged in a dynamic, appetizing composition. A chrome coffee pot and checkered napkin rings add nostalgic charm, while a smiling waitress in a retro uniform gestures toward a chalkboard sign that reads '20% Off Weekend Brunch!'",
+          "composition_and_framing": "Centered, slightly angled perspective from the diner counter looking toward the kitchen, creating a sense of depth and inviting atmosphere. The main brunch items are arranged in a triangular focal point, drawing the eye toward the chalkboard sign and waitress. The composition is dynamic yet balanced, with diagonal chrome accents and checkered patterns adding visual energy.",
+          "background_environment": "A retro 1950s diner backdrop with red vinyl booths, chrome trim, and a jukebox playing in the corner. The walls feature vintage advertisements and framed photos of classic cars, reinforcing the nostalgic aesthetic. A neon 'Open' sign glows softly in the background.",
+          "foreground_elements": "A checkered red-and-white tablecloth drapes into the foreground, partially covering a chrome tray with syrup bottles and condiments. A vintage menu card with a playful sans-serif font peeks out from under a plate, subtly reinforcing the branding typography.",
+          "lighting_and_mood": "Warm, diffused lighting mimics the glow of vintage diner lamps, casting soft shadows and highlighting the textures of the food and chrome surfaces. The mood is cheerful, welcoming, and nostalgic, evoking a sense of comfort and familiarity.",
+          "color_palette": "Rich mustard yellow and avocado green dominate the branding elements, accented with cherry red and chrome silver for retro flair. The food items are rendered in warm, saturated tones\u2014golden pancakes, bright berries, and vibrant greens\u2014to enhance appetite appeal.",
+          "visual_style": "A nostalgic 1950s diner aesthetic is fully realized through chrome accents, checkered patterns, and vintage signage. High-quality food photography captures the textures and details of each brunch item with hyper-realistic clarity. Bold, slab-serif typography is used for the chalkboard sign and menu card, blending modern legibility with retro charm. The overall style is a seamless fusion of vintage Americana and contemporary food presentation, designed to feel both familiar and enticing.",
+          "promotional_text_visuals": "The headline 'Weekend Brunch - 20% Off!' is written in bold, white slab-serif chalk on a blackboard background, placed prominently in the mid-right of the frame. Below it, a smaller tagline reads 'Come hungry, leave happy!' in a playful sans-serif font that matches the brand's style. The text is slightly angled for dynamic energy and framed by chrome accents.",
+          "branding_visuals": "The brand's yellow and green colors are subtly integrated into the scene: a green napkin ring, yellow condiment bottles, and a mustard-yellow diner booth in the background. The brand's playful sans-serif font is used for the menu card and tagline text, with a small logo watermark subtly etched into the chalkboard sign in the lower corner.",
+          "texture_and_details": "Chrome surfaces reflect soft diner lighting, adding dimension and realism. The checkered patterns on the tablecloth and waitress uniform are crisp and detailed. Food textures are hyper-realistic\u2014butter glistens on pancakes, avocado slices show natural grain, and syrup has a viscous, glossy sheen.",
+          "negative_elements": "Avoid modern design elements such as flat icons, minimalist fonts, or contemporary architecture. No digital UI elements, no overly stylized illustrations, and no muted or pastel color schemes.",
+          "creative_reasoning": "This concept leverages the nostalgic 1950s diner aesthetic to evoke comfort and familiarity, appealing to casual diners seeking a relaxed weekend experience. The bold retro style and checkered motifs align with the target voice of being friendly and straightforward, while the high-quality food photography ensures the health-conscious angle is subtly communicated through fresh, vibrant ingredients. The promotional text is integrated organically into the scene, ensuring it's attention-grabbing without disrupting the visual harmony. The use of brand colors and playful typography reinforces recognition and aligns with the casual, approachable brand identity. Designed for Facebook, the composition balances detail and clarity to perform well in a mixed feed, where visual impact and readability are key."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 4
+      }
+    ]
+  }
+}

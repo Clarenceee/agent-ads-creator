@@ -1,0 +1,102 @@
+{
+  "request_details": {
+    "mode": "task-specific_mode",
+    "task_type": "1. Product Photography",
+    "target_platform": {
+      "name": "Instagram Post (1:1 Square)",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "aspect_ratio": "1:1"
+      }
+    }
+  },
+  "user_inputs": {
+    "prompt": null,
+    "image_reference": {
+      "filename": "noodle.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 191818,
+      "instruction": null,
+      "saved_image_path": "noodle_20250504_142856.jpeg"
+    },
+    "branding_elements": null,
+    "task_description": null,
+    "marketing_goals": null
+  },
+  "processing_context": {
+    "initial_json_valid": true,
+    "image_analysis_result": {
+      "main_subject": "Stir-fried noodles with vegetables",
+      "secondary_elements": null,
+      "setting_environment": null,
+      "style_mood": null,
+      "extracted_text": null,
+      "suggested_keywords": null
+    },
+    "suggested_marketing_strategies": [
+      {
+        "target_audience": "Young professionals and foodies who enjoy authentic Asian flavors",
+        "target_niche": "Asian Cuisine (Chinese/Thai)",
+        "target_objective": "Increase brand awareness and engagement through visually appealing product photography",
+        "target_voice": "Authentic, vibrant, and culturally rich"
+      },
+      {
+        "target_audience": "Health-conscious individuals seeking nutritious and flavorful vegetarian meals",
+        "target_niche": "Healthy/Vegetarian Food",
+        "target_objective": "Promote the health benefits and fresh ingredients of the stir-fried noodles to boost online orders",
+        "target_voice": "Fresh, wholesome, and encouraging a healthy lifestyle"
+      },
+      {
+        "target_audience": "Casual diners looking for quick, tasty, and affordable meal options",
+        "target_niche": "Casual Dining",
+        "target_objective": "Drive foot traffic to casual dining locations by showcasing appetizing stir-fried noodles",
+        "target_voice": "Friendly, approachable, and inviting"
+      },
+      {
+        "target_audience": "Food bloggers and Instagram influencers focused on Asian cuisine",
+        "target_niche": "Asian Cuisine (Chinese/Thai)",
+        "target_objective": "Encourage user-generated content and shares to expand social media reach",
+        "target_voice": "Trendy, engaging, and visually descriptive"
+      },
+      {
+        "target_audience": "Millennials and Gen Z interested in plant-based and flavorful meals",
+        "target_niche": "Healthy/Vegetarian Food",
+        "target_objective": "Increase customer retention by highlighting unique vegetarian stir-fried noodle recipes",
+        "target_voice": "Modern, vibrant, and inspiring"
+      }
+    ],
+    "llm_call_usage": {
+      "image_eval": {
+        "completion_tokens": 13,
+        "prompt_tokens": 2709,
+        "total_tokens": 2722,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_gen_combined": {
+        "completion_tokens": 234,
+        "prompt_tokens": 793,
+        "total_tokens": 1027,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      }
+    }
+  }
+}

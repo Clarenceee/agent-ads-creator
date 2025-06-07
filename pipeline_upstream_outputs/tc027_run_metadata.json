@@ -1,0 +1,342 @@
+{
+  "request_details": {
+    "mode": "task_specific_mode",
+    "task_type": "5. Cultural & Community Content",
+    "target_platform": {
+      "name": "Instagram Post (1:1 Square)",
+      "resolution_details": {
+        "width": 1080,
+        "height": 1080,
+        "aspect_ratio": "1:1"
+      }
+    }
+  },
+  "user_inputs": {
+    "prompt": null,
+    "image_reference": {
+      "filename": "WhatsApp Image 2025-05-30 at 17.10.27.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 40684,
+      "instruction": null,
+      "saved_image_path": "WhatsApp_Image_2025-05-30_at_17_10_27_20250530_091448_355133.jpeg"
+    },
+    "render_text": true,
+    "apply_branding": true,
+    "branding_elements": "EESOY",
+    "task_description": "Merdeka Day Celebration",
+    "marketing_goals": null
+  },
+  "processing_context": {
+    "initial_json_valid": true,
+    "image_analysis_result": {
+      "main_subject": "Bottle of handcrafted soy milk",
+      "secondary_elements": null,
+      "setting_environment": null,
+      "style_mood": null,
+      "extracted_text": null
+    },
+    "suggested_marketing_strategies": [
+      {
+        "target_audience": "Young adults and families interested in traditional Malaysian culture and beverages",
+        "target_niche": "Traditional Beverages",
+        "target_objective": "Increase engagement by highlighting the heritage and artisanal process behind handcrafted soy milk for Merdeka Day",
+        "target_voice": "Warm, nostalgic, and celebratory, evoking pride in cultural roots"
+      },
+      {
+        "target_audience": "Health-conscious consumers looking for nutritious and natural drink options",
+        "target_niche": "Health & Wellness Drinks",
+        "target_objective": "Educate audience on the health benefits of soy milk as a wholesome plant-based drink during Merdeka festivities",
+        "target_voice": "Informative, encouraging, and uplifting with a focus on wellness and vitality"
+      },
+      {
+        "target_audience": "Vegans and plant-based lifestyle advocates seeking authentic and tasty drink alternatives",
+        "target_niche": "Ethnic Cuisine (Malaysian)",
+        "target_objective": "Promote handcrafted soy milk as a delicious and ethical choice aligned with cultural celebration",
+        "target_voice": "Friendly, inclusive, and passionate about sustainability and plant-based living"
+      },
+      {
+        "target_audience": "Malaysian expatriates and diaspora eager to connect with their cultural heritage",
+        "target_niche": "Plant-Based & Vegan Drinks",
+        "target_objective": "Strengthen emotional connection and cultural pride by showcasing traditional soy milk as part of Merdeka Day celebrations",
+        "target_voice": "Sentimental, heartfelt, and community-focused, emphasizing home and belonging"
+      },
+      {
+        "target_audience": "Foodies and Instagram users who enjoy discovering festive and culturally unique foods and drinks",
+        "target_niche": "Festive & Cultural Foods",
+        "target_objective": "Boost brand visibility and attract new followers through visually appealing content celebrating Merdeka Day with handcrafted soy milk",
+        "target_voice": "Vibrant, trendy, and engaging with a touch of excitement and cultural storytelling"
+      }
+    ],
+    "llm_call_usage": {
+      "image_eval": {
+        "completion_tokens": 10,
+        "prompt_tokens": 1918,
+        "total_tokens": 1928,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_niche_id": {
+        "completion_tokens": 37,
+        "prompt_tokens": 271,
+        "total_tokens": 308,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_goal_gen": {
+        "completion_tokens": 303,
+        "prompt_tokens": 824,
+        "total_tokens": 1127,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_gen_combined_sum": {
+        "completion_tokens": 340,
+        "prompt_tokens": 1095,
+        "total_tokens": 1435,
+        "stage1_completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "stage1_prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "stage2_completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "stage2_prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "creativity_level_used": 1,
+    "style_guidance_sets": [
+      {
+        "style_keywords": [
+          "soft warm lighting",
+          "natural wooden background",
+          "artisanal prop arrangement",
+          "symmetrical composition"
+        ],
+        "style_description": "Use soft, warm, directional natural light to accentuate the handcrafted texture of the soy milk bottle, placed centrally on a polished wood slab against a neutral wooden background. Arrange artisanal props like a bamboo whisk and soybeans symmetrically around the bottle to evoke traditional Merdeka Day celebrations.",
+        "marketing_impact": "The nostalgic, heritage-focused aesthetic fosters cultural pride and encourages shares and comments from families and young adults who resonate with traditional Malaysian craftsmanship.",
+        "source_strategy_index": 0
+      },
+      {
+        "style_keywords": [
+          "clean white background",
+          "even natural lighting",
+          "macro condensation droplets",
+          "central composition"
+        ],
+        "style_description": "Photograph the soy milk bottle against a seamless white backdrop with evenly diffused daylight to highlight its purity. Capture macro condensation droplets on the bottle surface for a fresh, healthful look that underscores its natural, nutritious qualities.",
+        "marketing_impact": "The crisp, minimalist presentation enhances perceived health benefits, driving saves and shares among wellness-focused audiences on platforms like Instagram and Pinterest.",
+        "source_strategy_index": 1
+      },
+      {
+        "style_keywords": [
+          "batik cloth backdrop",
+          "even natural lighting",
+          "farm-to-table props",
+          "close-up shot"
+        ],
+        "style_description": "Place the bottle of handcrafted soy milk on a richly patterned batik cloth under soft, neutral daylight, with farm-fresh soybeans and a wooden spoon arranged organically around it. Use a close-up, slightly low-angle perspective to emphasize authenticity and the plant-based craftsmanship rooted in Malaysian ethnic cuisine.",
+        "marketing_impact": "The culturally authentic setup resonates with plant-based and vegan communities, encouraging engagement and shares on food-centric social channels.",
+        "source_strategy_index": 2
+      },
+      {
+        "style_keywords": [
+          "home kitchen setting",
+          "soft diffused lighting",
+          "vintage Malay textile props",
+          "warm color temperature"
+        ],
+        "style_description": "Stage the soy milk bottle on a home kitchen countertop with vintage Malay textiles and family photos subtly placed in the background under gentle, diffused window light. Apply a warm color temperature to evoke sentimental feelings of homecoming and cultural belonging.",
+        "marketing_impact": "This heartfelt, community-focused visual taps into nostalgia, boosting emotional connection and shares among Malaysian expatriates across diaspora forums.",
+        "source_strategy_index": 3
+      },
+      {
+        "style_keywords": [
+          "vibrant colored backdrop",
+          "overhead flat lay",
+          "dynamic composition",
+          "even natural lighting"
+        ],
+        "style_description": "Shoot an overhead flat-lay of the soy milk bottle on a vibrant red-blue backdrop inspired by the Malaysian flag, with dynamic placement of ingredients like soybeans and a Merdeka ribbon. Use even natural lighting to maintain photorealism while ensuring the bold colors pop for maximum visual impact.",
+        "marketing_impact": "The eye-catching, flag-inspired palette drives scroll-stopping engagement and tags on Instagram, attracting foodies and culture lovers alike.",
+        "source_strategy_index": 4
+      }
+    ],
+    "generated_image_prompts": [
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "Symmetrical square layout with the handcrafted soy milk bottle placed exactly at the center on a circular polished wood slab. A slight top-down camera angle (~15\u00b0) reveals both the bottle\u2019s label and surface textures. On either side, an artisanal bamboo whisk and a hand-carved wooden bowl of raw soybeans sit at equal distances, with a gentle arc of loose beans radiating outward to guide the viewer\u2019s eye back to the center. Ample negative space around the arrangement allows room for text overlays without crowding.",
+          "background_environment": "Vertical natural wooden planks in warm beige tones, softly out of focus to create depth. A faint, desaturated Merdeka flag motif is painted onto the planks behind the bottle, adding cultural context without distracting from the main subject.",
+          "foreground_elements": "A round wood slab with visible growth rings and natural bark edge. On the left, a finely crafted bamboo whisk rests diagonally; on the right, a small wooden bowl overflowing with soybeans. A few loose soybeans are placed in a mirror-pattern on both sides for balance.",
+          "lighting_and_mood": "Soft, warm directional light from the upper-left corner, mimicking early morning sun. This creates gentle highlights on the glass bottle and subtle, elongated shadows across the wood slab. The overall mood is nostalgic, inviting, and celebratory.",
+          "color_palette": "Warm neutrals: creamy off-white, honey browns, soft beiges. Accent of muted crimson echoing the Merdeka flag, used sparingly in text or subtle prop detail. Low saturation for a timeless, artisanal feel.",
+          "visual_style": "Photorealistic and minimalistic with artisanal sensibilities. Sharp mid-ground focus on the bottle and props, slight bokeh on the background planks. Emphasis on tactile textures\u2014wood grain, matte glass, natural fibers. Subtle vignetting and soft shadows draw attention to the center. Color grading leans towards warm tones, reinforcing the nostalgic heritage aesthetic.",
+          "promotional_text_visuals": "Top-center headline \u201cSelamat Merdeka\u201d in an elegant, warm-cream serif font with medium weight and slight arch. Bottom-center subheading \u201cHandcrafted Soy Milk Heritage\u201d in a medium-weight geometric sans-serif, colored in muted crimson. Both texts are overlaid with a very low-opacity wooden texture, ensuring seamless integration into the scene without overpowering the visual.",
+          "branding_visuals": null,
+          "texture_and_details": "High-resolution texture detail: dew-like condensation dots on the glass, pronounced wood grain on the planks and slab, fibrous strands on the bamboo whisk, matte surfaces of the soybeans. Subtle paper-grain effect on text overlays.",
+          "negative_elements": "Avoid bright, synthetic colors or neon accents; no modern or plastic props; no harsh studio lighting or deep shadows; omit visible logos, busy patterns, or clutter that detract from the artisanal heritage focus.",
+          "creative_reasoning": "Symmetrical composition and warm directional light celebrate the handcrafted soy milk as a cultural artifact, resonating with young adults and families for Merdeka Day. Natural wood textures and traditional props highlight artisanal process and heritage, driving engagement through shared nostalgia. Integrated text reinforces the celebratory Merdeka message while maintaining visual harmony, fulfilling the objective of showcasing cultural pride and encouraging social interaction."
+        },
+        "source_strategy_index": 0
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "The handcrafted soy milk bottle is placed dead center in the square frame, shot straight-on at eye level. Equal negative space surrounds the bottle on all sides, creating a perfectly symmetrical composition. A slight low-angle lift emphasizes the bottle\u2019s stature and quality.",
+          "background_environment": "Seamless pure-white backdrop with no gradients or textures, providing a clinical, minimalist canvas that underscores purity and wellness.",
+          "foreground_elements": "A sparse arrangement of fresh green soy pods and shelled beans artfully scattered at the base of the bottle. A subtle dusting of tiny red-and-white Merdeka confetti along the bottom edge hints at the festive theme without cluttering the frame.",
+          "lighting_and_mood": "Even, diffused natural daylight from a large overhead softbox paired with gentle fill from reflectors. Soft shadows anchor the bottle without harshness, crafting a bright, uplifting, and refreshing mood that conveys vitality and health.",
+          "color_palette": "Dominant white and creamy off-white tones from background and soy milk, accented by lush soybean-green and bold Merdeka red, with neutral grey shadows for depth.",
+          "visual_style": "Photorealistic studio product photography in a clean, minimalist aesthetic. Central composition and even lighting emphasize macro condensation droplets beading on the chilled bottle surface. High-resolution clarity highlights texture and freshness. Slight soft-focus vignette at frame edges directs the eye inward toward the bottle.",
+          "promotional_text_visuals": "Headline: 'Selamat Merdeka!' in uppercase bold geometric sans-serif, Merdeka red (#E41F26), centered at top over a semi-transparent white banner (50% opacity). Subheadline: 'Cheers to Plant-Based Goodness' in medium-weight sans-serif, dark charcoal, centered beneath the headline. Footer caption: 'Nutrient-packed soy milk for your wellness journey' in light sans-serif, small size, soft grey, placed at bottom-left with a semi-transparent white background for legibility.",
+          "branding_visuals": null,
+          "texture_and_details": "Macro condensation droplets and subtle frost on the bottle neck, gentle reflection on the glossy white surface, visible fibrous texture on soy pods.",
+          "negative_elements": "No harsh shadows or glare, no busy backgrounds or additional props, no human figures, no dark or moody filters, no clutter that distracts from product clarity.",
+          "creative_reasoning": "Centering the soy milk bottle against a stark white backdrop with even natural lighting and macro condensation aligns with the health-focused, uplifting voice and highlights its purity. Subtle Merdeka confetti and red accents tie into the Cultural & Community Content theme, celebrating national unity while reinforcing the festive context. The minimalist photorealistic style and clear text hierarchy drive direct engagement and educate health-conscious audiences on the benefits of soy milk during Merdeka festivities."
+        },
+        "source_strategy_index": 1
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "Centered close-up shot from a slightly low angle, bottle positioned in the center third of the square frame. Cloth folds radiate outward around the bottle, creating gentle leading lines that draw the eye to the handcrafted soy milk.",
+          "background_environment": "Richly patterned traditional Malaysian batik cloth draped over a rustic wooden table. The cloth\u2019s intricate indigo and rust-red motifs fill the frame, softly blurring at the edges to keep focus on the center.",
+          "foreground_elements": "Organic arrangement of scattered raw yellow soybeans and a handcrafted wooden spoon placed diagonally across the lower third of the frame, anchoring the scene and reinforcing the farm-to-table narrative.",
+          "lighting_and_mood": "Soft, diffused natural daylight from the upper left, providing even illumination with gentle highlights on the glass bottle and warm shadows for depth. The overall mood is warm, inviting, and authentic.",
+          "color_palette": "Earthy, warm tones: deep indigo and rusty reds of the batik cloth, warm brown of the wooden table and spoon, creamy off-white of the soy milk, golden yellow of the soybeans, and subtle green accents from soybean leaves.",
+          "visual_style": "Photorealistic farm-to-table aesthetic with hyper-detailed textures. Batik cloth backdrop, even natural lighting, and a close-up low-angle perspective emphasize authenticity and craftsmanship. Minimal stylization ensures clarity, while tactile materials and cultural patterns reinforce Malaysian heritage.",
+          "promotional_text_visuals": "Headline 'Merdeka Day Celebration' in bold, geometric sans-serif uppercase, ivory white with a subtle drop shadow, centered at the top on a semi-transparent batik-patterned ribbon. Subtext 'Handcrafted Soy Milk \u2022 Plant-Based Pride' in smaller italic sans-serif, warm beige, positioned at the bottom center, integrated seamlessly into the folds of the cloth.",
+          "branding_visuals": null,
+          "texture_and_details": "High-resolution weave of the batik fabric, visible wood grain on the table and spoon, realistic condensation droplets on the glass bottle, matte texture of the soybeans, and slight imperfections for authenticity.",
+          "negative_elements": "Avoid harsh or colored lighting, cluttered or unrelated props, modern kitchen items, over-saturation, artificial filters, and any elements that distract from the cultural authenticity and product clarity.",
+          "creative_reasoning": "By combining a traditional batik backdrop with farm-fresh soybeans and natural props, this concept celebrates Malaysian cultural heritage and appeals to plant-based advocates. The close-up, low-angle, photorealistic style highlights handcrafted quality and aligns with the Merdeka Day Celebration theme. Centered composition and soft daylight ensure clarity and engagement on Instagram\u2019s 1:1 format, reinforcing community pride and sustainability values."
+        },
+        "source_strategy_index": 2
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "Symmetrical, centered composition: the handcrafted soy milk bottle sits upright at the exact center of the frame on a wooden countertop. On either side, gently draped vintage Malay textiles create balanced visual weight. Behind the bottle, two family photo frames are placed equidistantly to form a subtle V-shape leading the eye inward.",
+          "background_environment": "A warm, home kitchen corner with a pastel chalk-washed wall in soft beige. A wide window with sheer curtains lets in diffused morning light. On the wall, three small wooden photo frames display faded black-and-white family portraits. The wooden countertop has a natural grain and slight wear.",
+          "foreground_elements": "A folded deep maroon songket napkin (traditional Malay textile) on the left, a small antique brass spoon resting on the right, and a shallow ceramic bowl of raw soybeans placed just in front of the bottle base.",
+          "lighting_and_mood": "Soft, even diffused window light from the left, creating gentle highlights on the bottle and textiles with minimal shadows. Warm color temperature (around 3000K) evokes early morning nostalgia and comforting sentiment.",
+          "color_palette": "Warm earth tones: creamy beige, burnished wood brown, deep maroon and gold accents from the songket, muted olive green touches, and soft off-white from the textiles and bottle label.",
+          "visual_style": "Photorealistic home-kitchen tableau with a gentle vintage aesthetic: high-resolution textures on wood and textiles; subtle film-like grain for warmth; slight vignette around edges to focus on center; styling cues from traditional Malay heritage (songket patterns, brass utensils) integrated seamlessly; overall look is clean, heartwarming, and intimate.",
+          "promotional_text_visuals": "Top-center headline: \u201cMerdeka Day Celebration\u201d in an elegant, flowing Malay-inspired script font in warm maroon with a subtle gold outline. Beneath in smaller serif: \u201cComing Home to the Taste of Tradition\u201d in creamy beige. Text is softly embossed and cast with a faint drop shadow to stand out against the wall, leaving ample breathing space around the bottle.",
+          "branding_visuals": null,
+          "texture_and_details": "Emphasize the tactile grain of the wooden countertop, the intricate weave and slight fraying of the songket textile, the cool condensation beads on the glass bottle, and the aged patina on the brass spoon.",
+          "negative_elements": "No modern kitchen appliances, harsh artificial lighting, cluttered or busy backgrounds, strong shadows or high contrast, overt logos or non-vintage artifacts.",
+          "creative_reasoning": "A symmetrical, photorealistic setup centers the soy milk bottle to reinforce cultural pride and emotional connection for Malaysian expatriates. Vintage Malay textiles and family photos evoke nostalgia and homecoming, aligning with the Merdeka Day theme. Soft diffused lighting and warm earth tones create a sentimental, heartfelt mood. The elegant headline and subtext tie the visual to the \u2018Merdeka Day Celebration\u2019 message, strengthening community-focused engagement and shares among the diaspora."
+        },
+        "source_strategy_index": 3
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "An overhead flat-lay shot filling the 1:1 frame, with the soy milk bottle placed slightly off-center to the right, creating a dynamic diagonal flow. Surrounding elements radiate outward in a balanced yet energetic arrangement, leading the viewer\u2019s eye from top left to bottom right.",
+          "background_environment": "A seamless two-tone backdrop divided diagonally: the top-left half in vibrant Malaysian flag red, the bottom-right half in deep royal blue. The subtle texture of a matte paper surface adds depth without distraction.",
+          "foreground_elements": "Scattered golden soybeans in small clusters around the bottle, a loosely coiled Merdeka ribbon in red and white stripes weaving through the composition, and a miniature waving Malaysian flag toothpick near the bottle cap.",
+          "lighting_and_mood": "Even, diffused natural lighting from a large softbox above, eliminating harsh shadows and highlighting the bottle\u2019s glossy label and the matte backdrop. The mood is bright, celebratory, and fresh.",
+          "color_palette": "Primary hues of Malaysian flag red (#E30B17) and royal blue (#012169), accented by soybean gold (#D4A24C), crisp white, and neutral paper-white for negative space.",
+          "visual_style": "Photorealistic overhead flat-lay with minimal stylization. Bold, vibrant colors pop against the matte backdrop. Clean, sharp focus throughout ensures ingredient textures and bottle details are visible. The arrangement is dynamic yet uncluttered, reflecting modern Instagram aesthetics and emphasizing cultural celebration.",
+          "promotional_text_visuals": "Headline: \u201cCelebrate Merdeka Day\u201d in uppercase bold geometric sans-serif (e.g., Montserrat ExtraBold), white text with a fine gold outline, placed top-center following the red/blue diagonal division. Subheadline: \u201cHandcrafted Soy Milk\u201d in a smaller italicized sans-serif (e.g., Montserrat Italic), positioned bottom-left on the blue half, integrated along the curve of the ribbon. Both texts cast subtle drop shadows for legibility without overpowering the scene.",
+          "branding_visuals": null,
+          "texture_and_details": "Visible condensation droplets on the soy milk bottle, the matte paper backdrop\u2019s subtle grain, the natural sheen of soybeans, and the soft fabric weave of the ribbon, all rendered in high detail.",
+          "negative_elements": "No harsh shadows, no artificial color filters, no background clutter or extraneous props, no heavy lens flares, and avoid overly saturated or vintage film effects.",
+          "creative_reasoning": "An overhead flat-lay with Malaysian flag colors creates immediate cultural resonance for Merdeka Day, engaging foodies seeking festive content. The dynamic composition and vibrant palette drive scroll-stopping impact on Instagram, while even natural lighting and photorealism maintain trust in product quality. Strategic text placement ensures clear messaging without distracting from the handcrafted soy milk, aligning with the objective to boost visibility and attract followers through culturally rich, visually stunning content."
+        },
+        "source_strategy_index": 4
+      }
+    ],
+    "final_assembled_prompts": [
+      {
+        "index": 0,
+        "prompt": "Edit the provided image. Preserve the main subject exactly as it is in the original image. Modify only the surrounding context (background, lighting, style, composition, etc.) to match this description: Symmetrical square layout with the handcrafted soy milk bottle placed exactly at the center on a circular polished wood slab. A slight top-down camera angle (~15\u00b0) reveals both the bottle\u2019s label and surface textures. On either side, an artisanal bamboo whisk and a hand-carved wooden bowl of raw soybeans sit at equal distances, with a gentle arc of loose beans radiating outward to guide the viewer\u2019s eye back to the center. Ample negative space around the arrangement allows room for text overlays without crowding. Background: Vertical natural wooden planks in warm beige tones, softly out of focus to create depth. A faint, desaturated Merdeka flag motif is painted onto the planks behind the bottle, adding cultural context without distracting from the main subject. Foreground elements: A round wood slab with visible growth rings and natural bark edge. On the left, a finely crafted bamboo whisk rests diagonally; on the right, a small wooden bowl overflowing with soybeans. A few loose soybeans are placed in a mirror-pattern on both sides for balance. Lighting & Mood: Soft, warm directional light from the upper-left corner, mimicking early morning sun. This creates gentle highlights on the glass bottle and subtle, elongated shadows across the wood slab. The overall mood is nostalgic, inviting, and celebratory. Color Palette: Warm neutrals: creamy off-white, honey browns, soft beiges. Accent of muted crimson echoing the Merdeka flag, used sparingly in text or subtle prop detail. Low saturation for a timeless, artisanal feel. Visual Style: Photorealistic and minimalistic with artisanal sensibilities. Sharp mid-ground focus on the bottle and props, slight bokeh on the background planks. Emphasis on tactile textures\u2014wood grain, matte glass, natural fibers. Subtle vignetting and soft shadows draw attention to the center. Color grading leans towards warm tones, reinforcing the nostalgic heritage aesthetic. Textures & Details: High-resolution texture detail: dew-like condensation dots on the glass, pronounced wood grain on the planks and slab, fibrous strands on the bamboo whisk, matte surfaces of the soybeans. Subtle paper-grain effect on text overlays. Promotional Text Visuals: Top-center headline \u201cSelamat Merdeka\u201d in an elegant, warm-cream serif font with medium weight and slight arch. Bottom-center subheading \u201cHandcrafted Soy Milk Heritage\u201d in a medium-weight geometric sans-serif, colored in muted crimson. Both texts are overlaid with a very low-opacity wooden texture, ensuring seamless integration into the scene without overpowering the visual. Avoid the following elements: Avoid bright, synthetic colors or neon accents; no modern or plastic props; no harsh studio lighting or deep shadows; omit visible logos, busy patterns, or clutter that detract from the artisanal heritage focus. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 1,
+        "prompt": "Edit the provided image. Preserve the main subject exactly as it is in the original image. Modify only the surrounding context (background, lighting, style, composition, etc.) to match this description: The handcrafted soy milk bottle is placed dead center in the square frame, shot straight-on at eye level. Equal negative space surrounds the bottle on all sides, creating a perfectly symmetrical composition. A slight low-angle lift emphasizes the bottle\u2019s stature and quality. Background: Seamless pure-white backdrop with no gradients or textures, providing a clinical, minimalist canvas that underscores purity and wellness. Foreground elements: A sparse arrangement of fresh green soy pods and shelled beans artfully scattered at the base of the bottle. A subtle dusting of tiny red-and-white Merdeka confetti along the bottom edge hints at the festive theme without cluttering the frame. Lighting & Mood: Even, diffused natural daylight from a large overhead softbox paired with gentle fill from reflectors. Soft shadows anchor the bottle without harshness, crafting a bright, uplifting, and refreshing mood that conveys vitality and health. Color Palette: Dominant white and creamy off-white tones from background and soy milk, accented by lush soybean-green and bold Merdeka red, with neutral grey shadows for depth. Visual Style: Photorealistic studio product photography in a clean, minimalist aesthetic. Central composition and even lighting emphasize macro condensation droplets beading on the chilled bottle surface. High-resolution clarity highlights texture and freshness. Slight soft-focus vignette at frame edges directs the eye inward toward the bottle. Textures & Details: Macro condensation droplets and subtle frost on the bottle neck, gentle reflection on the glossy white surface, visible fibrous texture on soy pods. Promotional Text Visuals: Headline: 'Selamat Merdeka!' in uppercase bold geometric sans-serif, Merdeka red (#E41F26), centered at top over a semi-transparent white banner (50% opacity). Subheadline: 'Cheers to Plant-Based Goodness' in medium-weight sans-serif, dark charcoal, centered beneath the headline. Footer caption: 'Nutrient-packed soy milk for your wellness journey' in light sans-serif, small size, soft grey, placed at bottom-left with a semi-transparent white background for legibility. Avoid the following elements: No harsh shadows or glare, no busy backgrounds or additional props, no human figures, no dark or moody filters, no clutter that distracts from product clarity. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 2,
+        "prompt": "Edit the provided image. Preserve the main subject exactly as it is in the original image. Modify only the surrounding context (background, lighting, style, composition, etc.) to match this description: Centered close-up shot from a slightly low angle, bottle positioned in the center third of the square frame. Cloth folds radiate outward around the bottle, creating gentle leading lines that draw the eye to the handcrafted soy milk. Background: Richly patterned traditional Malaysian batik cloth draped over a rustic wooden table. The cloth\u2019s intricate indigo and rust-red motifs fill the frame, softly blurring at the edges to keep focus on the center. Foreground elements: Organic arrangement of scattered raw yellow soybeans and a handcrafted wooden spoon placed diagonally across the lower third of the frame, anchoring the scene and reinforcing the farm-to-table narrative. Lighting & Mood: Soft, diffused natural daylight from the upper left, providing even illumination with gentle highlights on the glass bottle and warm shadows for depth. The overall mood is warm, inviting, and authentic. Color Palette: Earthy, warm tones: deep indigo and rusty reds of the batik cloth, warm brown of the wooden table and spoon, creamy off-white of the soy milk, golden yellow of the soybeans, and subtle green accents from soybean leaves. Visual Style: Photorealistic farm-to-table aesthetic with hyper-detailed textures. Batik cloth backdrop, even natural lighting, and a close-up low-angle perspective emphasize authenticity and craftsmanship. Minimal stylization ensures clarity, while tactile materials and cultural patterns reinforce Malaysian heritage. Textures & Details: High-resolution weave of the batik fabric, visible wood grain on the table and spoon, realistic condensation droplets on the glass bottle, matte texture of the soybeans, and slight imperfections for authenticity. Promotional Text Visuals: Headline 'Merdeka Day Celebration' in bold, geometric sans-serif uppercase, ivory white with a subtle drop shadow, centered at the top on a semi-transparent batik-patterned ribbon. Subtext 'Handcrafted Soy Milk \u2022 Plant-Based Pride' in smaller italic sans-serif, warm beige, positioned at the bottom center, integrated seamlessly into the folds of the cloth. Avoid the following elements: Avoid harsh or colored lighting, cluttered or unrelated props, modern kitchen items, over-saturation, artificial filters, and any elements that distract from the cultural authenticity and product clarity. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 3,
+        "prompt": "Edit the provided image. Preserve the main subject exactly as it is in the original image. Modify only the surrounding context (background, lighting, style, composition, etc.) to match this description: Symmetrical, centered composition: the handcrafted soy milk bottle sits upright at the exact center of the frame on a wooden countertop. On either side, gently draped vintage Malay textiles create balanced visual weight. Behind the bottle, two family photo frames are placed equidistantly to form a subtle V-shape leading the eye inward. Background: A warm, home kitchen corner with a pastel chalk-washed wall in soft beige. A wide window with sheer curtains lets in diffused morning light. On the wall, three small wooden photo frames display faded black-and-white family portraits. The wooden countertop has a natural grain and slight wear. Foreground elements: A folded deep maroon songket napkin (traditional Malay textile) on the left, a small antique brass spoon resting on the right, and a shallow ceramic bowl of raw soybeans placed just in front of the bottle base. Lighting & Mood: Soft, even diffused window light from the left, creating gentle highlights on the bottle and textiles with minimal shadows. Warm color temperature (around 3000K) evokes early morning nostalgia and comforting sentiment. Color Palette: Warm earth tones: creamy beige, burnished wood brown, deep maroon and gold accents from the songket, muted olive green touches, and soft off-white from the textiles and bottle label. Visual Style: Photorealistic home-kitchen tableau with a gentle vintage aesthetic: high-resolution textures on wood and textiles; subtle film-like grain for warmth; slight vignette around edges to focus on center; styling cues from traditional Malay heritage (songket patterns, brass utensils) integrated seamlessly; overall look is clean, heartwarming, and intimate. Textures & Details: Emphasize the tactile grain of the wooden countertop, the intricate weave and slight fraying of the songket textile, the cool condensation beads on the glass bottle, and the aged patina on the brass spoon. Promotional Text Visuals: Top-center headline: \u201cMerdeka Day Celebration\u201d in an elegant, flowing Malay-inspired script font in warm maroon with a subtle gold outline. Beneath in smaller serif: \u201cComing Home to the Taste of Tradition\u201d in creamy beige. Text is softly embossed and cast with a faint drop shadow to stand out against the wall, leaving ample breathing space around the bottle. Avoid the following elements: No modern kitchen appliances, harsh artificial lighting, cluttered or busy backgrounds, strong shadows or high contrast, overt logos or non-vintage artifacts. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 4,
+        "prompt": "Edit the provided image. Preserve the main subject exactly as it is in the original image. Modify only the surrounding context (background, lighting, style, composition, etc.) to match this description: An overhead flat-lay shot filling the 1:1 frame, with the soy milk bottle placed slightly off-center to the right, creating a dynamic diagonal flow. Surrounding elements radiate outward in a balanced yet energetic arrangement, leading the viewer\u2019s eye from top left to bottom right. Background: A seamless two-tone backdrop divided diagonally: the top-left half in vibrant Malaysian flag red, the bottom-right half in deep royal blue. The subtle texture of a matte paper surface adds depth without distraction. Foreground elements: Scattered golden soybeans in small clusters around the bottle, a loosely coiled Merdeka ribbon in red and white stripes weaving through the composition, and a miniature waving Malaysian flag toothpick near the bottle cap. Lighting & Mood: Even, diffused natural lighting from a large softbox above, eliminating harsh shadows and highlighting the bottle\u2019s glossy label and the matte backdrop. The mood is bright, celebratory, and fresh. Color Palette: Primary hues of Malaysian flag red (#E30B17) and royal blue (#012169), accented by soybean gold (#D4A24C), crisp white, and neutral paper-white for negative space. Visual Style: Photorealistic overhead flat-lay with minimal stylization. Bold, vibrant colors pop against the matte backdrop. Clean, sharp focus throughout ensures ingredient textures and bottle details are visible. The arrangement is dynamic yet uncluttered, reflecting modern Instagram aesthetics and emphasizing cultural celebration. Textures & Details: Visible condensation droplets on the soy milk bottle, the matte paper backdrop\u2019s subtle grain, the natural sheen of soybeans, and the soft fabric weave of the ribbon, all rendered in high detail. Promotional Text Visuals: Headline: \u201cCelebrate Merdeka Day\u201d in uppercase bold geometric sans-serif (e.g., Montserrat ExtraBold), white text with a fine gold outline, placed top-center following the red/blue diagonal division. Subheadline: \u201cHandcrafted Soy Milk\u201d in a smaller italicized sans-serif (e.g., Montserrat Italic), positioned bottom-left on the blue half, integrated along the curve of the ribbon. Both texts cast subtle drop shadows for legibility without overpowering the scene. Avoid the following elements: No harsh shadows, no artificial color filters, no background clutter or extraneous props, no heavy lens flares, and avoid overly saturated or vintage film effects. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      }
+    ],
+    "generated_image_results": [
+      {
+        "index": 0,
+        "status": "success",
+        "result_path": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc027_run_20250530_092129/edited_image_strategy_0_20250530_092214.png",
+        "original_result": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc027_run_20250530_092129/edited_image_strategy_0_20250530_092214.png"
+      },
+      {
+        "index": 1,
+        "status": "success",
+        "result_path": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc027_run_20250530_092129/edited_image_strategy_1_20250530_092302.png",
+        "original_result": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc027_run_20250530_092129/edited_image_strategy_1_20250530_092302.png"
+      },
+      {
+        "index": 2,
+        "status": "success",
+        "result_path": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc027_run_20250530_092129/edited_image_strategy_2_20250530_092355.png",
+        "original_result": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc027_run_20250530_092129/edited_image_strategy_2_20250530_092355.png"
+      },
+      {
+        "index": 3,
+        "status": "success",
+        "result_path": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc027_run_20250530_092129/edited_image_strategy_3_20250530_092445.png",
+        "original_result": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc027_run_20250530_092129/edited_image_strategy_3_20250530_092445.png"
+      },
+      {
+        "index": 4,
+        "status": "success",
+        "result_path": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc027_run_20250530_092129/edited_image_strategy_4_20250530_092536.png",
+        "original_result": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc027_run_20250530_092129/edited_image_strategy_4_20250530_092536.png"
+      }
+    ]
+  }
+}

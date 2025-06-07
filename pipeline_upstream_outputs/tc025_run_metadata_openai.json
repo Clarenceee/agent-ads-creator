@@ -1,0 +1,347 @@
+{
+  "request_details": {
+    "mode": "task_specific_mode",
+    "task_type": "6. Recipes & Food Tips",
+    "target_platform": {
+      "name": "Instagram Post (1:1 Square)",
+      "resolution_details": {
+        "width": 1080,
+        "height": 1080,
+        "aspect_ratio": "1:1"
+      }
+    }
+  },
+  "user_inputs": {
+    "prompt": null,
+    "image_reference": {
+      "filename": "WhatsApp Image 2025-05-27 at 00.07.09.jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 554222,
+      "instruction": null,
+      "saved_image_path": "WhatsApp_Image_2025-05-27_at_00_07_09_20250526_160933_538319.jpeg"
+    },
+    "render_text": true,
+    "apply_branding": false,
+    "branding_elements": null,
+    "task_description": null,
+    "marketing_goals": null
+  },
+  "processing_context": {
+    "initial_json_valid": true,
+    "image_analysis_result": {
+      "main_subject": "Steamed dumplings in a bamboo steamer basket",
+      "secondary_elements": null,
+      "setting_environment": null,
+      "style_mood": null,
+      "extracted_text": null
+    },
+    "suggested_marketing_strategies": [
+      {
+        "target_audience": "Young professionals and foodies interested in authentic Dim Sum and Chinese cuisine experiences",
+        "target_niche": "Dim Sum and Chinese Cuisine",
+        "target_objective": "Increase engagement by sharing traditional steamed dumpling recipes and cultural stories behind them",
+        "target_voice": "Warm, informative, and culturally respectful"
+      },
+      {
+        "target_audience": "Millennials and Gen Z who enjoy exploring vibrant and flavorful Asian street food",
+        "target_niche": "Asian Street Food",
+        "target_objective": "Drive brand awareness by showcasing quick and easy steamed dumpling recipes ideal for street food lovers",
+        "target_voice": "Energetic, trendy, and playful"
+      },
+      {
+        "target_audience": "Health-conscious individuals looking for nutritious and low-calorie meal options",
+        "target_niche": "Healthy Steamed Foods",
+        "target_objective": "Promote the health benefits of steamed foods with recipes focusing on steamed dumplings as a wholesome choice",
+        "target_voice": "Encouraging, fresh, and trustworthy"
+      },
+      {
+        "target_audience": "Vegetarians and vegans seeking delicious plant-based Asian dishes",
+        "target_niche": "Vegetarian and Vegan Asian Dishes",
+        "target_objective": "Build a community by sharing innovative vegetarian and vegan steamed dumpling recipes and tips",
+        "target_voice": "Friendly, inclusive, and inspiring"
+      },
+      {
+        "target_audience": "Home cooks of all skill levels interested in learning and sharing Asian recipes",
+        "target_niche": "Home Cooking and Recipe Sharing",
+        "target_objective": "Enhance follower interaction through easy-to-follow steamed dumpling recipes and cooking hacks",
+        "target_voice": "Approachable, helpful, and engaging"
+      }
+    ],
+    "llm_call_usage": {
+      "image_eval": {
+        "completion_tokens": 15,
+        "prompt_tokens": 2838,
+        "total_tokens": 2853,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_niche_id": {
+        "completion_tokens": 36,
+        "prompt_tokens": 273,
+        "total_tokens": 309,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_goal_gen": {
+        "completion_tokens": 256,
+        "prompt_tokens": 826,
+        "total_tokens": 1082,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_gen_combined_sum": {
+        "completion_tokens": 292,
+        "prompt_tokens": 1099,
+        "total_tokens": 1391,
+        "stage1_completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "stage1_prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "stage2_completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "stage2_prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "creativity_level_used": 1,
+    "style_guidance_sets": [
+      {
+        "style_keywords": [
+          "photorealistic",
+          "warm natural light",
+          "cultural motif",
+          "symmetrical composition",
+          "earthy tones"
+        ],
+        "style_description": "Frame the steamed dumplings in a perfectly symmetrical layout within a bamboo steamer basket, using soft, warm natural light to highlight the texture of the dough and the sheen of the filling. Incorporate subtle Chinese textile patterns or a muted red lantern in the blurred background to evoke an authentic cultural atmosphere. Employ a shallow depth of field to keep attention on the dumpling details while preserving context.",
+        "marketing_impact": "The authentic, culturally respectful aesthetic fosters trust and nostalgia among foodies and young professionals, driving higher engagement through visually rich storytelling on platforms like Xiaohongshu or Instagram.",
+        "source_strategy_index": 0
+      },
+      {
+        "style_keywords": [
+          "photorealistic",
+          "vibrant colors",
+          "dynamic angle",
+          "street food vibe",
+          "motion hint"
+        ],
+        "style_description": "Use a diagonal overhead shot with vibrant props\u2014chili flakes, chopped scallions, and bright sauces\u2014scattered around the bamboo steamer to suggest street food dynamism. Employ even, high-key lighting to enhance color saturation and add a subtle motion blur to one corner to evoke the bustle of a night market. Keep the dumplings sharply in focus to maintain clarity amidst the colorful scene.",
+        "marketing_impact": "This energetic, trendy presentation captures the excitement of Asian street food culture, boosting brand awareness and shareability among Millennials and Gen Z on fast-scrolling feeds like TikTok and Instagram Stories.",
+        "source_strategy_index": 1
+      },
+      {
+        "style_keywords": [
+          "photorealistic",
+          "minimalist white",
+          "bright even lighting",
+          "macro detail",
+          "fresh green accent"
+        ],
+        "style_description": "Place the bamboo steamer basket against a clean white background under bright, evenly diffused light to emphasize freshness and purity. Close in on the dumplings with macro detail, capturing the glistening surface and fine pleats, while a small sprig of green herb adds a fresh accent. Maintain a clinical, minimalist approach to convey health and cleanliness.",
+        "marketing_impact": "The crisp, spotless aesthetic appeals directly to health-conscious viewers, reinforcing the perception of steamed dumplings as a nutritious choice and driving saves and shares on Pinterest and wellness blogs.",
+        "source_strategy_index": 2
+      },
+      {
+        "style_keywords": [
+          "photorealistic",
+          "earthy palette",
+          "organic texture",
+          "leaf accent",
+          "soft warm light"
+        ],
+        "style_description": "Arrange the steamed dumplings on banana leaves or a wooden board to emphasize the plant-based filling, using soft, warm side lighting to enhance natural textures. Employ an earthy color palette\u2014olive greens, browns, and beiges\u2014to create a cozy, inclusive atmosphere. Use a medium depth of field so both the dumplings and surrounding leaves remain in gentle focus.",
+        "marketing_impact": "An inviting, organic visual style resonates with vegetarian and vegan audiences, fostering community connection and inspiring recipe shares and saves on Facebook groups and Instagram feeds.",
+        "source_strategy_index": 3
+      },
+      {
+        "style_keywords": [
+          "photorealistic",
+          "overhead flat lay",
+          "step-by-step overlay",
+          "neutral backdrop",
+          "clear negative space"
+        ],
+        "style_description": "Use a clean, neutral backdrop and a perfectly centered overhead flat lay to showcase the bamboo steamer and its contents. Add minimal graphic overlays\u2014numbered steps or short tips\u2014in one corner to guide viewers through the recipe without cluttering the frame. Maintain ample negative space around the basket for a clear, approachable look.",
+        "marketing_impact": "The straightforward, instructional design encourages follower interaction and saves on cooking platforms and Instagram, making complex recipes feel accessible and shareable among home cooks.",
+        "source_strategy_index": 4
+      }
+    ],
+    "generated_image_prompts": [
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "Perfectly symmetrical, top-down medium shot capturing the round bamboo steamer basket filling the center of the square frame. The steamer sits flat on a textured wooden table, its circular form creating a pleasing contrast with the square format. The dumplings are arranged in a radial pattern, their pleated shapes leading the eye inward.",
+          "background_environment": "Softly blurred, warm-hued setting featuring a muted red Chinese paper lantern hanging in the upper part of the frame and a corner of a traditional blue-and-white Chinese textile cloth draped in the background. Hints of bamboo wall panels and subtle cultural motifs peek through the bokeh.",
+          "foreground_elements": "A pair of lacquered wooden chopsticks resting diagonally at the bottom-right corner, partially extending into the frame to add depth and guide the eye toward the dumplings.",
+          "lighting_and_mood": "Gentle, warm natural light streaming from the top-left, casting soft, even highlights on the dumpling dough and subtle shadows around the steamer rim. The mood is inviting, cozy, and intimate, evoking a home-kitchen atmosphere.",
+          "color_palette": "Earthy neutral tones\u2014warm beiges of the dumpling dough, light tan of the bamboo steamer, rich browns of the wooden table\u2014harmonized with muted reds and deep indigo accents from the lantern and textile. The overall tonality is warm and nourishing.",
+          "visual_style": "Photorealistic with a shallow depth of field: the dumplings in sharp focus while the background gently blurs. Emphasize texture realism\u2014visible dough grain, slight sheen on the steamed filling, natural bamboo wood grain\u2014and cultural motifs in soft focus. Maintain a balanced, symmetrical composition for clarity and visual harmony, reflecting authentic culinary storytelling.",
+          "promotional_text_visuals": "Headline: \u201cTraditional Steamed Dumplings\u201d in a warm, elegant serif font (e.g., Adobe Caslon), placed at the top-center in off-white with subtle drop shadow for legibility. Subtext: \u201cStep-by-step recipe & cultural stories inside\u201d in a smaller, rounded sans-serif (e.g., Montserrat), bottom-center along the basket rim, with a semi-transparent dark overlay behind the text to ensure readability without obscuring the image.",
+          "branding_visuals": null,
+          "texture_and_details": "Emphasize fine details: delicate pleats of dough, slight condensation droplets on the steamer lid (out of frame), visible wood grain of the basket and table. Highlight the tactile quality of bamboo fibers and linen textile.",
+          "negative_elements": "No bright or saturated colors, avoid cluttered props, no modern kitchen gadgets, no visible busy patterns or human hands, no harsh shadows or artificial lighting effects.",
+          "creative_reasoning": "A symmetrical, top-down photorealistic composition with warm natural light and cultural motifs directly appeals to young professionals and foodies seeking authentic Dim Sum recipes. The restrained color palette and detailed textures foster nostalgia and trust, aligning with the objective to share traditional steamed dumpling recipes and cultural stories. Subtle text placement and stylistic fonts guide engagement without distracting from the food, staying true to a warm, informative, and respectful brand voice."
+        },
+        "source_strategy_index": 0
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "A dynamic diagonal overhead shot taken from roughly 45\u00b0 above the scene, framed as a perfect 1:1 square. The round bamboo steamer is positioned slightly off-center on a gentle diagonal axis, drawing the eye from the bottom-left corner up to the top-right. This angle emphasizes depth and motion, while still keeping the dumplings in crisp focus.",
+          "background_environment": "A warm, lightly blurred wooden night-market table surface with hints of bustling stall activity in the distance. Out-of-focus string lights and the faint silhouette of other food stalls add context without distracting from the main subject.",
+          "foreground_elements": "Scattered chili flakes, finely chopped scallions, and a few drops of bright red chili oil around the base of the steamer. A pair of rustic black chopsticks rests at the bottom-left, pointing toward the steamer, and two small dipping sauce dishes (one with soy sauce and sesame seeds, the other with vibrant chili paste) occupy the bottom-right corner.",
+          "lighting_and_mood": "Even, high-key lighting from above and slightly to the left, creating soft, natural shadows and enhancing color saturation. Subtle specular highlights on the dumpling wrappers and sauces give a fresh, mouth-watering appeal. A gentle motion blur in the top-right corner hints at the constant hustle of a night market.",
+          "color_palette": "A vibrant, high-contrast combination of warm wood tones, natural bamboo beige, bright reds from chili flakes and sauces, fresh green from scallions, and deep black accents from chopsticks and soy sauce dish. This complementary palette energizes the scene.",
+          "visual_style": "Photorealistic street food photography with an energetic vibe. High saturation and crisp detail on the dumplings and props, balanced by a subtle film grain for authenticity. The dynamic diagonal framing and slight motion blur evoke the fast-paced atmosphere of an Asian night market, while maintaining clarity on the recipe\u2019s key elements.",
+          "promotional_text_visuals": "Headline: \u201cQuick & Easy Steamed Dumplings\u201d in bold geometric sans-serif, white with a thin red outline, positioned across the top third of the image on a semi-transparent black banner for legibility. Subtext: \u201cYour street food fix in minutes\u201d in a smaller, playful sans-serif italic, white with a soft drop shadow, placed along the bottom edge, aligned center. Text wraps slightly around the steamer, integrated seamlessly into the scene without covering the dumplings.",
+          "branding_visuals": null,
+          "texture_and_details": "Fine texture on the bamboo steamer rings and the pleated folds of each dumpling, with visible moisture beads on the wrappers. Glossy, reflective surfaces on the sauce dishes and chili oil pool add tactile realism.",
+          "negative_elements": "Avoid heavy shadows, cartoonish or illustrative effects, busy backgrounds that compete with the subject, overly warm color casts or yellow tints that reduce color accuracy.",
+          "creative_reasoning": "A diagonal overhead shot with vibrant props and high-key lighting aligns with the \u2018Recipes & Food Tips\u2019 task type by clearly showcasing the dumplings and garnishes, making the recipe approachable. The energetic, street-food vibe and subtle motion blur communicate the excitement of an Asian night market, resonating with Millennials and Gen Z. Bold, playful text supports brand awareness objectives by making the content instantly scannable on Instagram\u2019s fast-scroll feeds."
+        },
+        "source_strategy_index": 1
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "A top-down macro close-up shot framed in a perfect square (1:1 aspect ratio), centering the bamboo steamer basket so its round shape fills most of the frame edges. The dumplings inside are tightly cropped, emphasizing their pleats and glistening surfaces. The shot is symmetrical, with even white space around the basket to reinforce minimalism and draw the viewer\u2019s eye directly to the dumplings.",
+          "background_environment": "A seamless, pure-white backdrop with no visible seams or textures. The background is entirely clean and unobtrusive, creating a clinical, hygienic feel that reinforces the health-focused message.",
+          "foreground_elements": "A single small porcelain dipping bowl with light soy-ginger sauce placed just at the lower-left corner, partially overlapping the basket\u2019s rim. A delicate sprig of fresh cilantro rests lightly on the rim of the steamer, adding a fresh green accent without cluttering the scene.",
+          "lighting_and_mood": "Bright, evenly diffused overhead studio lighting that eliminates harsh shadows and creates a soft, natural glow. The mood is clean, fresh, and clinical, conveying purity and healthiness. Subtle specular highlights on the dumpling skins emphasize moisture and freshness.",
+          "color_palette": "A minimalist palette of pristine whites and soft creams for the dumplings and background, warm natural bamboo tan for the steamer, and a single fresh green accent from the herb garnish. Sauce in the porcelain bowl introduces a muted amber-brown contrast.",
+          "visual_style": "Photorealistic macro photography with minimalist white aesthetic. Ultra-high-definition detail captures every tiny pleat and the dewy sheen on the dumpling skins. The bamboo basket\u2019s weave is crisp and tactile. The overall approach is clean and clinical: white-dominant, bright even lighting, macro detail focus, with controlled pops of fresh green for a health-forward accent.",
+          "promotional_text_visuals": "At the top center, overlay a bold sans-serif headline in dark charcoal reading \u201cHealthy Steamed Dumplings.\u201d Directly beneath in smaller, lighter-weight text: \u201cLow-Cal \u2022 High-Protein \u2022 Nutrient-Packed.\u201d Use a semi-transparent white text box with rounded corners to ensure readability without disrupting minimalism. Place a discreet \u2018Save & Try\u2019 call-to-action badge in lower-right corner in a small green circle with white iconography.",
+          "branding_visuals": null,
+          "texture_and_details": "Highlight the glossy, almost translucent dough texture and the bamboo steamer\u2019s natural grain. Include tiny condensation droplets on the dumpling tops to signal freshness. The porcelain bowl has a subtle gloss finish, contrasting gently with the matte dumpling surfaces.",
+          "negative_elements": "Avoid clutter like additional props (chopsticks, extra vegetables), strong shadows or dramatic contrast, busy patterns, bright accent colors outside the green accent, and any signs of cooking mess or oil splatter.",
+          "creative_reasoning": "By employing a top-down, macro, photorealistic style within a minimalist white environment, we directly appeal to health-conscious viewers who value clarity and purity in food imagery. The clinical lighting and clean composition reinforce trust and the notion of steamed dumplings as a hygienic, low-calorie choice. The crisp green herb accent and concise nutritional text headline drive home the recipe\u2019s health benefits, aligning with the target objective of promoting steamed foods as nutritious. The square 1:1 framing is optimized for Instagram engagement, ensuring the visual stands out in feeds and encourages saves and shares."
+        },
+        "source_strategy_index": 2
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "A 45\u00b0 top-down medium-closeup shot within a square frame: the bamboo steamer basket of steamed dumplings is placed slightly off-center to the right, creating balanced negative space on the left for text. The steamer\u2019s circular form contrasts with the square crop, and a medium depth of field keeps both the dumplings and surrounding banana leaves in gentle focus while softly blurring the wooden board edges.",
+          "background_environment": "A warm-toned wooden tabletop surface with visible natural grain and subtle patina fills the frame. Behind it, a neutral warm beige backdrop softly fades out of focus, maintaining an inviting, uncluttered look.",
+          "foreground_elements": "A sprig of fresh cilantro and thinly sliced green onions are artfully scattered atop the banana leaves. In the bottom-left corner, a small ceramic dish of soy-ginger dipping sauce peeks into view, slightly out of focus to draw the eye toward the dumplings.",
+          "lighting_and_mood": "Soft, warm side lighting from the left mimics late-afternoon sun, casting gentle highlights on the dumpling skins and leaf textures. The overall mood is cozy, inviting, and organic, with soft shadows that enhance depth without distracting.",
+          "color_palette": "An earthy color harmony of olive greens (banana leaves), warm browns (wooden board), creamy beige and off-white tones (dumpling skins), with subtle terracotta accents from the dipping sauce and fresh green herb pops.",
+          "visual_style": "Photorealistic food photography emphasizing organic textures and natural materials. The banana leaf and bamboo steamer convey authenticity; the wooden board adds rustic charm. Soft warm light enhances the tactile quality of the dumplings and leaves. A medium depth of field maintains clarity on key elements while blending foreground and background into a cohesive, earthy tableau.",
+          "promotional_text_visuals": "Top-left corner: a bold geometric sans-serif headline \u2018Plant-Powered Dumplings\u2019 in off-white with a subtle drop shadow for legibility. Directly below in a warm beige elegant serif: \u2018Steam, Share & Savor\u2019 tagline. Along the bottom-center edge: a playful script font in olive green reads \u2018Tip: Use banana leaf for extra aroma\u2019. All text elements are slightly translucent to integrate seamlessly with the scene and maintain a friendly, inclusive aesthetic.",
+          "branding_visuals": null,
+          "texture_and_details": "Visible moisture droplets on the dumpling skins catch the side light, highlighting their freshness. The banana leaf\u2019s natural veins and the bamboo steamer\u2019s woven texture are crisp. The wooden board shows fine wood-grain patterns and a gentle patina.",
+          "negative_elements": "Avoid artificial props, non-vegan ingredients, harsh or neon colors, cluttered backgrounds, and strong directional shadows that obscure detail.",
+          "creative_reasoning": "The medium-closeup 45\u00b0 angle showcases both the dumplings and context, aligning with the Recipes & Food Tips goal of clear presentation and actionable guidance. The earthy palette and organic textures resonate with vegetarian and vegan audiences, fostering a cozy, inclusive atmosphere that encourages community engagement. Soft warm lighting and leaf accents emphasize plant-based freshness. The text overlays deliver recipe inspiration and tips, reinforcing the friendly, inspiring voice and driving shares and saves on Instagram."
+        },
+        "source_strategy_index": 3
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "Perfectly centered overhead flat lay within a 1:1 square frame, with the bamboo steamer basket occupying the middle third of the shot. Use symmetrical spacing on all sides, with ample negative space forming a consistent border. Camera angle is strictly top-down, ensuring every dumpling is equally visible and aligned in a neat circular arrangement.",
+          "background_environment": "A clean, matte-finish light gray or off-white surface, such as a smooth concrete slab or ceramic tile, ensuring a neutral backdrop. The background is completely unobtrusive, providing maximum contrast against the natural wood of the steamer and the white dumplings.",
+          "foreground_elements": "Simple, natural bamboo chopsticks placed parallel at the bottom edge of the frame, pointing inward toward the steamer. A small ceramic dipping bowl with soy sauce and a few sesame seeds is positioned just outside the steamer rim to one side, partially overlapping the negative space.",
+          "lighting_and_mood": "Soft, even natural daylight from a large overhead diffuser, eliminating harsh shadows and highlights. The mood is bright, inviting, and airy, emphasizing clarity and freshness. Slight specular highlights on the dumpling skins add realism without dramatic contrast.",
+          "color_palette": "Neutral base tones\u2014light gray, soft white, natural bamboo tan\u2014with subtle pops of color from garnishes: pale green cilantro, dark brown soy sauce, and a few black sesame seeds. The overall tone is calm and minimalistic.",
+          "visual_style": "Photorealistic overhead flat lay emphasizing step-by-step clarity. The style blends professional food photography with minimal graphic design overlays: crisp focus throughout the depth of the shot, lifelike textures of wood and dough, and a high-resolution finish. The composition maintains a clean, editorial quality, reminiscent of premium cooking magazines but optimized for social engagement. Each element adheres to a disciplined grid, reinforcing the instructional nature of the image.",
+          "promotional_text_visuals": "Minimal graphic overlays in the top-right corner: three numbered circles (1\u20133) in a slim sans-serif font, each paired with a two-word tip (e.g., \u201cFill Generously,\u201d \u201cSeal Tightly,\u201d \u201cSteam 10 Min\u201d). Use a semi-transparent white background behind text with 60% opacity and charcoal-gray font for legibility. Align text in a vertical stack, with small arrow icons pointing toward the steamer rim to visually link the steps. Integrate the text so it floats above the background, not touching the steamer, preserving negative space.",
+          "branding_visuals": null,
+          "texture_and_details": "Emphasize the fine grain of the bamboo steamer, the slight flour dusting on the dumplings, and gentle condensation droplets inside the basket lid (if visible). The ceramic bowl has a subtle glaze sheen, and the chopsticks showcase natural bamboo striations.",
+          "negative_elements": "Avoid busy patterns, dark or colorful backdrops, heavy shadows, dramatic angles, excessive props, or illustrative elements. No over-saturated filters, no hand models, no crowded compositions.",
+          "creative_reasoning": "An overhead flat lay with ample negative space aligns with the instructional nature of recipes and food tips on Instagram, making the steaming process feel accessible and organized for home cooks. The neutral backdrop and even lighting ensure the dumplings remain the focal point, directly supporting engagement objectives by inviting saves and shares. Minimalist text overlays guide viewers through the recipe steps without overwhelming them, adhering to the photorealistic, clean style direction. Overall, the design reflects an approachable, helpful voice that demystifies Asian cooking techniques for cooks of all levels."
+        },
+        "source_strategy_index": 4
+      }
+    ],
+    "final_assembled_prompts": [
+      {
+        "index": 0,
+        "prompt": "Edit the provided image. Preserve the main subject exactly as it is in the original image. Modify only the surrounding context (background, lighting, style, composition, etc.) to match this description: Perfectly symmetrical, top-down medium shot capturing the round bamboo steamer basket filling the center of the square frame. The steamer sits flat on a textured wooden table, its circular form creating a pleasing contrast with the square format. The dumplings are arranged in a radial pattern, their pleated shapes leading the eye inward. Background: Softly blurred, warm-hued setting featuring a muted red Chinese paper lantern hanging in the upper part of the frame and a corner of a traditional blue-and-white Chinese textile cloth draped in the background. Hints of bamboo wall panels and subtle cultural motifs peek through the bokeh. Foreground elements: A pair of lacquered wooden chopsticks resting diagonally at the bottom-right corner, partially extending into the frame to add depth and guide the eye toward the dumplings. Lighting & Mood: Gentle, warm natural light streaming from the top-left, casting soft, even highlights on the dumpling dough and subtle shadows around the steamer rim. The mood is inviting, cozy, and intimate, evoking a home-kitchen atmosphere. Color Palette: Earthy neutral tones\u2014warm beiges of the dumpling dough, light tan of the bamboo steamer, rich browns of the wooden table\u2014harmonized with muted reds and deep indigo accents from the lantern and textile. The overall tonality is warm and nourishing. Visual Style: Photorealistic with a shallow depth of field: the dumplings in sharp focus while the background gently blurs. Emphasize texture realism\u2014visible dough grain, slight sheen on the steamed filling, natural bamboo wood grain\u2014and cultural motifs in soft focus. Maintain a balanced, symmetrical composition for clarity and visual harmony, reflecting authentic culinary storytelling. Textures & Details: Emphasize fine details: delicate pleats of dough, slight condensation droplets on the steamer lid (out of frame), visible wood grain of the basket and table. Highlight the tactile quality of bamboo fibers and linen textile. Promotional Text Visuals: Headline: \u201cTraditional Steamed Dumplings\u201d in a warm, elegant serif font (e.g., Adobe Caslon), placed at the top-center in off-white with subtle drop shadow for legibility. Subtext: \u201cStep-by-step recipe & cultural stories inside\u201d in a smaller, rounded sans-serif (e.g., Montserrat), bottom-center along the basket rim, with a semi-transparent dark overlay behind the text to ensure readability without obscuring the image. Avoid the following elements: No bright or saturated colors, avoid cluttered props, no modern kitchen gadgets, no visible busy patterns or human hands, no harsh shadows or artificial lighting effects. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 1,
+        "prompt": "Edit the provided image. Preserve the main subject exactly as it is in the original image. Modify only the surrounding context (background, lighting, style, composition, etc.) to match this description: A dynamic diagonal overhead shot taken from roughly 45\u00b0 above the scene, framed as a perfect 1:1 square. The round bamboo steamer is positioned slightly off-center on a gentle diagonal axis, drawing the eye from the bottom-left corner up to the top-right. This angle emphasizes depth and motion, while still keeping the dumplings in crisp focus. Background: A warm, lightly blurred wooden night-market table surface with hints of bustling stall activity in the distance. Out-of-focus string lights and the faint silhouette of other food stalls add context without distracting from the main subject. Foreground elements: Scattered chili flakes, finely chopped scallions, and a few drops of bright red chili oil around the base of the steamer. A pair of rustic black chopsticks rests at the bottom-left, pointing toward the steamer, and two small dipping sauce dishes (one with soy sauce and sesame seeds, the other with vibrant chili paste) occupy the bottom-right corner. Lighting & Mood: Even, high-key lighting from above and slightly to the left, creating soft, natural shadows and enhancing color saturation. Subtle specular highlights on the dumpling wrappers and sauces give a fresh, mouth-watering appeal. A gentle motion blur in the top-right corner hints at the constant hustle of a night market. Color Palette: A vibrant, high-contrast combination of warm wood tones, natural bamboo beige, bright reds from chili flakes and sauces, fresh green from scallions, and deep black accents from chopsticks and soy sauce dish. This complementary palette energizes the scene. Visual Style: Photorealistic street food photography with an energetic vibe. High saturation and crisp detail on the dumplings and props, balanced by a subtle film grain for authenticity. The dynamic diagonal framing and slight motion blur evoke the fast-paced atmosphere of an Asian night market, while maintaining clarity on the recipe\u2019s key elements. Textures & Details: Fine texture on the bamboo steamer rings and the pleated folds of each dumpling, with visible moisture beads on the wrappers. Glossy, reflective surfaces on the sauce dishes and chili oil pool add tactile realism. Promotional Text Visuals: Headline: \u201cQuick & Easy Steamed Dumplings\u201d in bold geometric sans-serif, white with a thin red outline, positioned across the top third of the image on a semi-transparent black banner for legibility. Subtext: \u201cYour street food fix in minutes\u201d in a smaller, playful sans-serif italic, white with a soft drop shadow, placed along the bottom edge, aligned center. Text wraps slightly around the steamer, integrated seamlessly into the scene without covering the dumplings. Avoid the following elements: Avoid heavy shadows, cartoonish or illustrative effects, busy backgrounds that compete with the subject, overly warm color casts or yellow tints that reduce color accuracy. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 2,
+        "prompt": "Edit the provided image. Preserve the main subject exactly as it is in the original image. Modify only the surrounding context (background, lighting, style, composition, etc.) to match this description: A top-down macro close-up shot framed in a perfect square (1:1 aspect ratio), centering the bamboo steamer basket so its round shape fills most of the frame edges. The dumplings inside are tightly cropped, emphasizing their pleats and glistening surfaces. The shot is symmetrical, with even white space around the basket to reinforce minimalism and draw the viewer\u2019s eye directly to the dumplings. Background: A seamless, pure-white backdrop with no visible seams or textures. The background is entirely clean and unobtrusive, creating a clinical, hygienic feel that reinforces the health-focused message. Foreground elements: A single small porcelain dipping bowl with light soy-ginger sauce placed just at the lower-left corner, partially overlapping the basket\u2019s rim. A delicate sprig of fresh cilantro rests lightly on the rim of the steamer, adding a fresh green accent without cluttering the scene. Lighting & Mood: Bright, evenly diffused overhead studio lighting that eliminates harsh shadows and creates a soft, natural glow. The mood is clean, fresh, and clinical, conveying purity and healthiness. Subtle specular highlights on the dumpling skins emphasize moisture and freshness. Color Palette: A minimalist palette of pristine whites and soft creams for the dumplings and background, warm natural bamboo tan for the steamer, and a single fresh green accent from the herb garnish. Sauce in the porcelain bowl introduces a muted amber-brown contrast. Visual Style: Photorealistic macro photography with minimalist white aesthetic. Ultra-high-definition detail captures every tiny pleat and the dewy sheen on the dumpling skins. The bamboo basket\u2019s weave is crisp and tactile. The overall approach is clean and clinical: white-dominant, bright even lighting, macro detail focus, with controlled pops of fresh green for a health-forward accent. Textures & Details: Highlight the glossy, almost translucent dough texture and the bamboo steamer\u2019s natural grain. Include tiny condensation droplets on the dumpling tops to signal freshness. The porcelain bowl has a subtle gloss finish, contrasting gently with the matte dumpling surfaces. Promotional Text Visuals: At the top center, overlay a bold sans-serif headline in dark charcoal reading \u201cHealthy Steamed Dumplings.\u201d Directly beneath in smaller, lighter-weight text: \u201cLow-Cal \u2022 High-Protein \u2022 Nutrient-Packed.\u201d Use a semi-transparent white text box with rounded corners to ensure readability without disrupting minimalism. Place a discreet \u2018Save & Try\u2019 call-to-action badge in lower-right corner in a small green circle with white iconography. Avoid the following elements: Avoid clutter like additional props (chopsticks, extra vegetables), strong shadows or dramatic contrast, busy patterns, bright accent colors outside the green accent, and any signs of cooking mess or oil splatter. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 3,
+        "prompt": "Edit the provided image. Preserve the main subject exactly as it is in the original image. Modify only the surrounding context (background, lighting, style, composition, etc.) to match this description: A 45\u00b0 top-down medium-closeup shot within a square frame: the bamboo steamer basket of steamed dumplings is placed slightly off-center to the right, creating balanced negative space on the left for text. The steamer\u2019s circular form contrasts with the square crop, and a medium depth of field keeps both the dumplings and surrounding banana leaves in gentle focus while softly blurring the wooden board edges. Background: A warm-toned wooden tabletop surface with visible natural grain and subtle patina fills the frame. Behind it, a neutral warm beige backdrop softly fades out of focus, maintaining an inviting, uncluttered look. Foreground elements: A sprig of fresh cilantro and thinly sliced green onions are artfully scattered atop the banana leaves. In the bottom-left corner, a small ceramic dish of soy-ginger dipping sauce peeks into view, slightly out of focus to draw the eye toward the dumplings. Lighting & Mood: Soft, warm side lighting from the left mimics late-afternoon sun, casting gentle highlights on the dumpling skins and leaf textures. The overall mood is cozy, inviting, and organic, with soft shadows that enhance depth without distracting. Color Palette: An earthy color harmony of olive greens (banana leaves), warm browns (wooden board), creamy beige and off-white tones (dumpling skins), with subtle terracotta accents from the dipping sauce and fresh green herb pops. Visual Style: Photorealistic food photography emphasizing organic textures and natural materials. The banana leaf and bamboo steamer convey authenticity; the wooden board adds rustic charm. Soft warm light enhances the tactile quality of the dumplings and leaves. A medium depth of field maintains clarity on key elements while blending foreground and background into a cohesive, earthy tableau. Textures & Details: Visible moisture droplets on the dumpling skins catch the side light, highlighting their freshness. The banana leaf\u2019s natural veins and the bamboo steamer\u2019s woven texture are crisp. The wooden board shows fine wood-grain patterns and a gentle patina. Promotional Text Visuals: Top-left corner: a bold geometric sans-serif headline \u2018Plant-Powered Dumplings\u2019 in off-white with a subtle drop shadow for legibility. Directly below in a warm beige elegant serif: \u2018Steam, Share & Savor\u2019 tagline. Along the bottom-center edge: a playful script font in olive green reads \u2018Tip: Use banana leaf for extra aroma\u2019. All text elements are slightly translucent to integrate seamlessly with the scene and maintain a friendly, inclusive aesthetic. Avoid the following elements: Avoid artificial props, non-vegan ingredients, harsh or neon colors, cluttered backgrounds, and strong directional shadows that obscure detail. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      },
+      {
+        "index": 4,
+        "prompt": "Edit the provided image. Preserve the main subject exactly as it is in the original image. Modify only the surrounding context (background, lighting, style, composition, etc.) to match this description: Perfectly centered overhead flat lay within a 1:1 square frame, with the bamboo steamer basket occupying the middle third of the shot. Use symmetrical spacing on all sides, with ample negative space forming a consistent border. Camera angle is strictly top-down, ensuring every dumpling is equally visible and aligned in a neat circular arrangement. Background: A clean, matte-finish light gray or off-white surface, such as a smooth concrete slab or ceramic tile, ensuring a neutral backdrop. The background is completely unobtrusive, providing maximum contrast against the natural wood of the steamer and the white dumplings. Foreground elements: Simple, natural bamboo chopsticks placed parallel at the bottom edge of the frame, pointing inward toward the steamer. A small ceramic dipping bowl with soy sauce and a few sesame seeds is positioned just outside the steamer rim to one side, partially overlapping the negative space. Lighting & Mood: Soft, even natural daylight from a large overhead diffuser, eliminating harsh shadows and highlights. The mood is bright, inviting, and airy, emphasizing clarity and freshness. Slight specular highlights on the dumpling skins add realism without dramatic contrast. Color Palette: Neutral base tones\u2014light gray, soft white, natural bamboo tan\u2014with subtle pops of color from garnishes: pale green cilantro, dark brown soy sauce, and a few black sesame seeds. The overall tone is calm and minimalistic. Visual Style: Photorealistic overhead flat lay emphasizing step-by-step clarity. The style blends professional food photography with minimal graphic design overlays: crisp focus throughout the depth of the shot, lifelike textures of wood and dough, and a high-resolution finish. The composition maintains a clean, editorial quality, reminiscent of premium cooking magazines but optimized for social engagement. Each element adheres to a disciplined grid, reinforcing the instructional nature of the image. Textures & Details: Emphasize the fine grain of the bamboo steamer, the slight flour dusting on the dumplings, and gentle condensation droplets inside the basket lid (if visible). The ceramic bowl has a subtle glaze sheen, and the chopsticks showcase natural bamboo striations. Promotional Text Visuals: Minimal graphic overlays in the top-right corner: three numbered circles (1\u20133) in a slim sans-serif font, each paired with a two-word tip (e.g., \u201cFill Generously,\u201d \u201cSeal Tightly,\u201d \u201cSteam 10 Min\u201d). Use a semi-transparent white background behind text with 60% opacity and charcoal-gray font for legibility. Align text in a vertical stack, with small arrow icons pointing toward the steamer rim to visually link the steps. Integrate the text so it floats above the background, not touching the steamer, preserving negative space. Avoid the following elements: Avoid busy patterns, dark or colorful backdrops, heavy shadows, dramatic angles, excessive props, or illustrative elements. No over-saturated filters, no hand models, no crowded compositions. Ensure the image strictly adheres to a 1:1 aspect ratio."
+      }
+    ],
+    "generated_image_results": [
+      {
+        "index": 0,
+        "status": "success",
+        "result_path": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc025_run_20250527_091255/edited_image_strategy_0_20250527_091344.png",
+        "original_result": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc025_run_20250527_091255/edited_image_strategy_0_20250527_091344.png"
+      },
+      {
+        "index": 1,
+        "status": "success",
+        "result_path": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc025_run_20250527_091255/edited_image_strategy_1_20250527_091431.png",
+        "original_result": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc025_run_20250527_091255/edited_image_strategy_1_20250527_091431.png"
+      },
+      {
+        "index": 2,
+        "status": "success",
+        "result_path": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc025_run_20250527_091255/edited_image_strategy_2_20250527_091451.png",
+        "original_result": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc025_run_20250527_091255/edited_image_strategy_2_20250527_091451.png"
+      },
+      {
+        "index": 3,
+        "status": "success",
+        "result_path": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc025_run_20250527_091255/edited_image_strategy_3_20250527_091541.png",
+        "original_result": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc025_run_20250527_091255/edited_image_strategy_3_20250527_091541.png"
+      },
+      {
+        "index": 4,
+        "status": "success",
+        "result_path": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc025_run_20250527_091255/edited_image_strategy_4_20250527_091634.png",
+        "original_result": "/content/drive/MyDrive/AI Imagery Marketing Tool/Colab Notebook/full_pipeline_test_1/pipeline_downstream_outputs/tc025_run_20250527_091255/edited_image_strategy_4_20250527_091634.png"
+      }
+    ]
+  }
+}

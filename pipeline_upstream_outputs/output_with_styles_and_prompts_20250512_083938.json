@@ -1,0 +1,253 @@
+{
+  "request_details": {
+    "mode": "task-specific_mode",
+    "task_type": "1. Product Photography",
+    "target_platform": {
+      "name": "Instagram Post (1:1 Square)",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "aspect_ratio": "1:1"
+      }
+    }
+  },
+  "user_inputs": {
+    "prompt": null,
+    "image_reference": {
+      "filename": "WhatsApp Image 2025-04-16 at 18.55.13 (1).jpeg",
+      "content_type": "image/jpeg",
+      "size_bytes": 53068,
+      "instruction": null,
+      "saved_image_path": "WhatsApp_Image_2025-04-16_at_18_55_13__1__20250508_212112.jpeg"
+    },
+    "branding_elements": null,
+    "task_description": null,
+    "marketing_goals": null,
+    "render_text": false,
+    "apply_branding": false
+  },
+  "processing_context": {
+    "initial_json_valid": true,
+    "image_analysis_result": {
+      "main_subject": "Bottle of handcrafted soy milk",
+      "secondary_elements": null,
+      "setting_environment": null,
+      "style_mood": null,
+      "extracted_text": null,
+      "suggested_keywords": null
+    },
+    "suggested_marketing_strategies": [
+      {
+        "target_audience": "Eco-conscious millennials seeking sustainable plant-based alternatives",
+        "target_niche": "Plant-Based Beverages",
+        "target_objective": "Increase brand awareness through engaging visual storytelling on Instagram",
+        "target_voice": "Fresh, vibrant, and environmentally mindful"
+      },
+      {
+        "target_audience": "Fitness enthusiasts and health-focused individuals looking for nutritious beverage options",
+        "target_niche": "Health and Wellness Drinks",
+        "target_objective": "Drive engagement by highlighting health benefits and natural ingredients",
+        "target_voice": "Energetic, informative, and motivational"
+      },
+      {
+        "target_audience": "Consumers preferring certified organic and natural food products",
+        "target_niche": "Organic and Natural Products",
+        "target_objective": "Build trust by showcasing authenticity and organic certification through product imagery",
+        "target_voice": "Honest, pure, and wholesome"
+      },
+      {
+        "target_audience": "Foodies and specialty drink lovers interested in artisanal and non-dairy milk varieties",
+        "target_niche": "Specialty Non-Dairy Milk",
+        "target_objective": "Boost product interest by emphasizing handcrafted quality and unique flavors",
+        "target_voice": "Sophisticated, artisanal, and inviting"
+      },
+      {
+        "target_audience": "Parents and families seeking healthy, non-dairy milk alternatives for children",
+        "target_niche": "Plant-Based Beverages",
+        "target_objective": "Encourage trial and repeat purchase by communicating safety, nutrition, and taste",
+        "target_voice": "Warm, caring, and reassuring"
+      }
+    ],
+    "llm_call_usage": {
+      "image_eval": {
+        "completion_tokens": 11,
+        "prompt_tokens": 2301,
+        "total_tokens": 2312,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      },
+      "strategy_gen_combined": {
+        "completion_tokens": 223,
+        "prompt_tokens": 870,
+        "total_tokens": 1093,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": null,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": null
+        },
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "creativity_level_used": 3,
+    "style_guidance_sets": [
+      {
+        "style_keywords": [
+          "biophilic textures",
+          "earthy palettes",
+          "macro botanicals",
+          "dynamic compositions"
+        ],
+        "style_description": "Use close-up shots of the soy milk bottle nestled among green leaves and reclaimed wood surfaces under soft natural light, showcasing biodegradable props and vibrant hues to emphasize sustainability and eco-conscious living.",
+        "source_strategy_index": 0
+      },
+      {
+        "style_keywords": [
+          "high-key lighting",
+          "motion blur",
+          "macro ingredient focus",
+          "sports props",
+          "infographic overlay"
+        ],
+        "style_description": "Capture the soy milk bottle in a bright studio setting with dynamic pouring motion, dumbbells or yoga mat accents, and subtle graphical nutrient callouts to evoke energy, fitness, and health benefits.",
+        "source_strategy_index": 1
+      },
+      {
+        "style_keywords": [
+          "minimalist white space",
+          "soft diffused lighting",
+          "certification badges",
+          "natural textures",
+          "neutral tones"
+        ],
+        "style_description": "Present the handcrafted soy milk bottle against a clean white backdrop with gentle shadows, clear organic certification seals, and raw soybean accents on a wooden board to convey purity and authenticity.",
+        "source_strategy_index": 2
+      },
+      {
+        "style_keywords": [
+          "moody chiaroscuro",
+          "handcrafted ceramics",
+          "deep jewel tones",
+          "rustic textiles",
+          "artisanal tools"
+        ],
+        "style_description": "Frame the soy milk bottle in a low-key still life alongside ceramic cups, linen cloth, and vintage measuring spoons under dramatic lighting to highlight its handcrafted quality and unique artisanal flavor.",
+        "source_strategy_index": 3
+      },
+      {
+        "style_keywords": [
+          "soft pastel palette",
+          "warm backlighting",
+          "family moments",
+          "playful styling",
+          "nutrition icons"
+        ],
+        "style_description": "Show the soy milk bottle on a pastel tabletop with a bowl of cereal, children\u2019s hands, and gentle morning light, using friendly props and subtle nutrient icons to evoke warmth, safety, and family care.",
+        "source_strategy_index": 4
+      }
+    ],
+    "generated_image_prompts": [
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "The shot uses a dynamic, slightly diagonal composition to create visual momentum, placing the soy milk bottle at a 30-degree angle to suggest motion while maintaining product prominence. A cluster of macro botanicals (hydrangeas, ferns, and sprouting lentils) frames the upper left quadrant, balancing the weight of reclaimed wood textures diagonally opposite. Negative space is minimized through strategic layering of foreground foliage and background moss.",
+          "background_environment": "Subtle bokeh-blurred reclaimed wood slats with visible nail holes and lichen growth create tactile depth, while patches of moss and hand-thrown clay pots in the mid-background reinforce eco-authenticity. A faintly visible compostable cup and folded kraft paper packaging in the extreme background add narrative context about sustainability.",
+          "foreground_elements": "Crisp macro lenses capture dewdrops on edible viola petals and basil leaves directly touching the bottle, with a viscous pour of soy milk over a laser-etched wooden coaster (showing carbon-neutral certification logos as micro-details). A scattering of hemp seeds and cracked wheat grains in the lower frame creates organic textural contrast.",
+          "lighting_and_mood": "Morning-hour north light with a subtle honeycomb reflector creates soft highlights on the bottle's glass while emphasizing the translucency of the liquid inside. Gentle backlighting from the left creates glowing leaf edges, suggesting vitality. Mood balances freshness (cool highlights) with warmth (amber undertones in reclaimed wood tones).",
+          "color_palette": "Earthy neutrals (taupe, moss green, weathered oak) form the base layers, accented by botanical vibrancy (saturated leaf green, viola purple, golden wheat). The soy milk's warm ivory hue acts as a neutral anchor, while dewdrops reflect cyan and citrine secondary colors from surrounding foliage to add Instagram-friendly luminosity.",
+          "visual_style": "Biophilic design principles fused with photorealistic macro-texture focus - the style combines the organic materiality of Japanese wabi-sabi (visible wood grain, imperfect clay pots) with the clean minimalism of Scandinavian eco-design. Prop arrangement follows golden spiral composition to guide the eye from botanical details to product, while moisture textures on both bottle and foliage create tactile visual resonance.",
+          "promotional_text_visuals": null,
+          "branding_visuals": null,
+          "texture_and_details": "Ultra-sharp macro renderings emphasize the micro-level biodegradable imperfections - the soy milk bottle retains subtle hand-blown glass seams, while wood surfaces show fungal mycelium growth patterns. Foliage includes photorealistic vein detailing with a mix of matte and glossy leaf surfaces to add light variation.",
+          "negative_elements": "No plastic materials or industrial props, no flat artificial lighting, no neon colors, no generic leaf patterns that lack botanical specificity, and no overt branding elements. Avoid symmetrical compositions or harsh shadows that would distract from the product's organic qualities.",
+          "creative_reasoning": "The design leverages Instagram's square format to create a tactile ecosystem where every element reinforces sustainability: imperfect reclaimed materials reference artisanal craftsmanship, while interacting botanical elements create organic 'visual proof' of freshness. The macro textures satisfy millennial desire for authenticity, while soft lighting aligns with mindful brand personality. Bokeh depth maintains focus on product purity despite dynamic composition."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 0
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "Central diagonal composition with the soy milk bottle tilted at 30 degrees mid-pour, capturing the liquid stream flowing from the bottle's mouth to a glass below. Sports props (matte-finish dumbbells in 5kg and 10kg sizes, a textured yoga mat in partial view) arranged rhythmically in the background to suggest motion and strength. Foreground elements like droplets and splashing soy milk frozen in motion.",
+          "background_environment": "Minimalist white seamless backdrop with subtle gradient lighting transitions. Floating abstract geometric shapes (cascading hexagons and ellipses) in soft transparent layers, symbolizing nutritional elements. A faint trail of motion blur following the bottle's arc to imply kinetic energy.",
+          "foreground_elements": "Macro-focused droplets of soy milk mid-air with visible plant-based particulates. Textured granite countertop edge visible in lower frame corner with gym chalk dust residue. Dumbbell weights appear partially submerged in a reflective soy milk puddle illusion.",
+          "lighting_and_mood": "Ultra-bright studio lighting with 45-degree key light creating sharp shadow edges on dumbbells. Secondary rim lighting highlights the translucent glass bottle's contour and liquid viscosity. Moody highlights on the pouring stream to emphasize texture while maintaining the health-focused upbeat atmosphere.",
+          "color_palette": "Fresh sprout green (Pantone 16-0440 TPX) for soy milk, accented with matte black dumbbells and terracotta yoga mat details. Background gradients in cream-white transitioning to pale sky blue. Nutrient-related infographic elements in muted gold (for protein) and leaf green (for fiber) accents.",
+          "visual_style": "Hybrid of commercial product photography and infographic-driven aesthetic, featuring controlled high-key studio environment with dramatic motion blur effects. Macro lens captures micro-details like soybean husk fragments in the bottle. Sports props arranged in Fibonacci pattern for subconscious visual harmony. Overlaid semi-transparent graphics resemble molecular structures (vitamins/minerals) with line art animations merging with the liquid stream.",
+          "promotional_text_visuals": null,
+          "branding_visuals": null,
+          "texture_and_details": "Visible soybean sediment particles suspended in liquid. Wet glass surface texture with water droplets adhering to demonstrate freshness. Yoga mat surface shows pressed fingerprint details. Dumbbell grip texture visible with anti-slip rubber patterns.",
+          "negative_elements": "Avoid dark shadows, artificial colorants in milk, gym equipment brand logos, cluttered elements, or any industrial-looking machinery in the backdrop",
+          "creative_reasoning": "The diagonal composition with pouring action aligns with product photography goals while creating dynamic energy. High-key lighting with controlled shadows and macro focus meets technical requirements while emphasizing ingredient transparency. Sports props placed in Fibonacci arrangement create subconscious visual appeal. Color palette of natural greens and earth tones with infographic abstraction translates health benefits visually without text. Texture details validate 'handcrafted' positioning through material authenticity."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 1
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "Symmetrical, centered composition with the soy milk bottle as the focal point, surrounded by negative space to emphasize purity. The bottle is positioned slightly off-center following the rule of thirds, with soybean accents and certification badges arranged in a diagonal flow from the bottom-left to create visual movement. Wooden board texture visible beneath the product adds tactile depth while maintaining minimalist framing.",
+          "background_environment": "Smooth gradient white backdrop transitioning subtly to a faint parchment-like texture at the edges, evoking organic certification documents. Floating botanical illustrations (subtle hand-drawn soy plant silhouettes) are incorporated at the periphery using shallow depth of field to suggest natural ingredients without distracting from product clarity.",
+          "foreground_elements": "Raw soybeans artfully scattered around the base of the bottle with deliberate asymmetry, two visible organic certification seals (USDA Organic and EU Organic logos) rendered in gold foil textures, and a small hand-carved wooden spoon resting diagonally across the composition to reinforce artisanal craftsmanship.",
+          "lighting_and_mood": "Soft, north-light illumination with subtle shadow gradients under the bottle to add dimensionality. Gentle rim lighting highlights the bottle's glass texture and liquid opacity, while diffused fill light eliminates harsh reflections for a calming, hygienic aesthetic that reinforces natural authenticity.",
+          "color_palette": "Monochromatic white core with muted earth neutrals - bone white bottle, creamy off-white soy liquid hue, aged oak brown for the wooden elements, and soft sand tones for shadow accents. Certification seals use metallic gold with reduced saturation to maintain elegant minimalism.",
+          "visual_style": "Sophisticated minimalism blending clean Scandinavian design principles with Japanese wabi-sabi aesthetics. Ultra-high-resolution photorealism renders every glass imperfection and soybean texture, while maintaining pristine white space. Light falls in volumetric rays creating dust motes for vintage authenticity, and certifications are placed like museum artifacts with precise anti-aliasing.",
+          "promotional_text_visuals": null,
+          "branding_visuals": null,
+          "texture_and_details": "Micro-detailed bottle surface showing organic glass imperfections, condensation droplets with 8K water texture, soybean skins with visible fiber details, and certification seals featuring embossed effects with sub-pixel depth variation in the gold plating.",
+          "negative_elements": "Avoid geometric shapes, synthetic materials, neon colors, visible studio equipment, food styling chemicals, or stylized fonts that could contradict organic messaging. Eliminate any shadow harshness above 15% contrast.",
+          "creative_reasoning": "The concept balances minimalist purity cues with tangible organic evidence through soybean textures and certification placement. White space hierarchy builds trust while botanical gradients connect to natural origins. Wabi-sabi lighting and textures prevent commercial sterility, aligning with the 'wholesome' voice. 1:1 framing ensures product prominence on social feeds without contextual distractions."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 2
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "Central focus on the soy milk bottle at slight angle, framed by asymmetrical arrangement of ceramic cups in varying deep jewel tones. Foreground features linen cloth draped in soft folds with visible texture. Background contains subtle vintage measuring spoons and wooden utensils arranged in chiaroscuro shadows, creating depth through tonal contrast.",
+          "background_environment": "Rough-textured stone wall painted in matte noir, contrasting with warm walnut woodgrain table surface. Ambient shadows create intimate, artisanal workshop atmosphere.",
+          "foreground_elements": "Linen cloth edge draped diagonally across lower frame, hand-thrown stoneware cup with visible clay striations in foreground right, linen-draped brass tea kettle silhouette in upper left.",
+          "lighting_and_mood": "Dramatic single-source side lighting creates chiaroscuro effect, with light beam angled across soy milk bottle to emphasize condensation droplets. Soft shadows wrap around ceramic textures, highlighting material craftsmanship.",
+          "color_palette": "Monochromatic noir and umber base with deep sapphire, garnet, and emerald accents in ceramics. Warm brass highlights from lighting contrast cool ceramic glazes, creating jewel-toned chiaroscuro.",
+          "visual_style": "Moody chiaroscuro still life in artisanal apothecary style, blending Flemish painting lighting techniques with Japandi ceramics aesthetics. Matte stone textures contrast with glossy ceramic glazes, while linen softness balances wooden tool rigidity. Composition follows wabi-sabi principles of asymmetrical balance, with visible handcrafted imperfections enhancing authenticity.",
+          "promotional_text_visuals": null,
+          "branding_visuals": null,
+          "texture_and_details": "Condensation droplets magnifying soy milk texture, visible ceramic wheel-throwing grooves in cups, linen micro-fibers rendered in 8K detail, burnished wood grain on measuring spoons' handles.",
+          "negative_elements": "No industrial elements, plastic materials, digital typography, flat lay compositions, or food styling with artificial enhancers.",
+          "creative_reasoning": "The dramatic chiaroscuro lighting aligns with 'sophisticated' voice while highlighting handcrafted textures. Jewel-toned ceramics against noir background create Instagram-worthy contrast, appealing to foodies' visual expectations. Asymmetrical composition with artisan tools subtly communicates non-dairy milk's handcrafted process without direct product description, perfectly fitting the product photography task type."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 3
+      },
+      {
+        "visual_concept": {
+          "main_subject": null,
+          "composition_and_framing": "Centered focus on the soy milk bottle as the anchor, surrounded by a bowl of cereal partially submerged in milk with floating whole soybeans, a child's hand dipping a cookie into the cereal bowl from the bottom edge, and floating pastel-hued nutrition icons (calcium droplets, vitamin sunbursts) subtly integrated near the bottle neck. The scene uses shallow depth of field to blur the background while keeping key elements like the child's hand and cereal in soft focus.",
+          "background_environment": "Textured pale lavender pastel tabletop with subtle woven fabric pattern visible under a translucent linen napkin draped diagonally behind the bottle. A sunlit sheer linen curtain creates dappled light patterns on the back wall painted in warm greige, with a tiny shadow puppet silhouette of a family breakfast scene projected faintly on the wall.",
+          "foreground_elements": "Sprinkling of fresh blueberries and sliced strawberries resting on the table's edge, a porcelain cereal spoon with a drip of milk mid-fall frozen in motion, and a small engraved wooden name tag partially visible under the bowl reading 'Sammy's Big Kid Milk'.",
+          "lighting_and_mood": "Golden-hour backlighting filtered through gauzy curtains creates a soft glow around the bottle, with lens flares catching on milk droplets mid-air. Diffused fill light from a reflector creates gentle shadow separation between the cereal bowl and bottle, maintaining warmth without harsh highlights.",
+          "color_palette": "Desaturated pastel triad of misty rose (Pantone 13-1012), mint foam (Pantone 13-6008), and custard cream (Pantone 13-0913), accented with honey peach glow highlights (Pantone 15-1127) from the lighting. Nutrition icons use pale gold and soft aqua for subtle contrast.",
+          "visual_style": "Wholesome hyperrealism blending lifestyle photography with gentle illustrative touches. The soy milk bottle's glass surface shows micro-droplets of condensation captured in extreme detail, while the cereal milk has syrupy viscosity. The style merges the requested soft pastel palette with dramatic chiaroscuro lighting that feels both aspirational and intimate, using the warm backlight to create a protective halo effect around the product.",
+          "promotional_text_visuals": null,
+          "branding_visuals": null,
+          "texture_and_details": "Extreme close-up textural elements: the bottle's frosted glass has hand-etched 'farm fresh' typography visible in the clear sections, the cereal bowl features matte ceramic with tiny pastel confetti speckles, and the spilled milk droplets have honey-like elongated shapes with realistic surface tension physics.",
+          "negative_elements": "Avoid neon colors, plastic-looking props, harsh artificial lighting, visible brand logos, or any elements suggesting artificial ingredients. No cluttered compositions - maintain negative space around the bottle. Exclude any non-dairy certification symbols or medical imagery that might imply clinical sterility.",
+          "creative_reasoning": "The warm backlighting and child's hand create emotional safety cues while the floating nutrition icons provide subconscious health messaging without text. The cereal interaction demonstrates product usage naturally, and the name tag adds personalization that resonates with parents. The shallow depth of field maintains product prominence while storytelling elements build narrative. Pastels with warm accents balance innovation with approachability, avoiding the 'health halo' trap of overly sterile visuals."
+        },
+        "aspect_ratio": "1:1",
+        "source_strategy_index": 4
+      }
+    ]
+  }
+}
